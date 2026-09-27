@@ -1,0 +1,16 @@
+WEEK 4 SUBMISSION PACKAGE
+==========================
+
+1. Extract this ZIP.
+2. Open the extracted folder.
+3. The DOCX is your report.
+4. The CSV is your dataset.
+5. customer_churn_prediction.py is the source code.
+6. visualizations/ contains the generated charts.
+7. Upload the DOCX to the internship portal.
+8. Create a GitHub repository and upload the contents of this folder.
+9. Use the GitHub repository URL in the submission form.
+
+To run the project:
+    pip install -r requirements.txt
+    python customer_churn_prediction.py

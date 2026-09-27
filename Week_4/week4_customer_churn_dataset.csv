@@ -1,0 +1,2201 @@
+customer_id,tenure_months,monthly_charges,support_tickets,usage_hours_month,contract_type,payment_method,internet_service,senior_customer,auto_pay,churn
+100001,13,114.15,3,16.6,Two year,Credit card,Fiber,0,1,0
+100002,4,87.02,1,15.2,Two year,Credit card,DSL,1,1,0
+100003,38,78.19,0,21.8,Month-to-month,Credit card,DSL,1,0,0
+100004,20,66.44,1,17.5,Two year,UPI,DSL,0,0,0
+100005,20,49.03,1,16.6,Two year,Bank transfer,Fiber,0,1,0
+100006,39,59.15,1,26.2,Month-to-month,Electronic check,Fiber,0,1,0
+100007,24,71.73,2,27.4,Month-to-month,UPI,Fiber,0,1,0
+100008,28,49.22,2,22.6,One year,UPI,Fiber,0,1,0
+100009,18,66.19,3,44.1,One year,Credit card,5G,0,1,0
+100010,23,96.47,2,31.3,Month-to-month,Credit card,Fiber,0,1,0
+100011,17,50.67,3,24.6,Month-to-month,Credit card,Fiber,1,1,0
+100012,21,67.89,7,14.3,One year,UPI,Fiber,1,1,0
+100013,38,66.07,1,15.2,One year,UPI,5G,0,0,0
+100014,14,75.65,3,35.2,Two year,Bank transfer,DSL,0,0,0
+100015,9,51.85,1,22.4,Two year,Bank transfer,Fiber,0,0,0
+100016,10,62.92,2,27.0,Month-to-month,Electronic check,Fiber,0,1,0
+100017,17,25.0,3,35.2,Two year,Electronic check,Fiber,0,0,0
+100018,42,68.44,2,14.2,One year,Bank transfer,Fiber,0,1,0
+100019,12,87.31,0,19.0,Month-to-month,Credit card,Fiber,0,0,0
+100020,17,87.39,3,17.3,Month-to-month,Credit card,Fiber,0,1,0
+100021,35,96.81,0,16.7,One year,Electronic check,Fiber,0,1,0
+100022,28,49.8,2,9.5,One year,Bank transfer,DSL,0,1,0
+100023,13,78.8,1,17.4,Month-to-month,Electronic check,DSL,0,1,0
+100024,37,74.87,5,17.0,One year,UPI,5G,0,1,0
+100025,72,66.93,1,16.9,Two year,UPI,Fiber,0,1,0
+100026,72,79.66,0,15.1,Month-to-month,Electronic check,Fiber,0,1,0
+100027,14,74.16,0,36.2,One year,Credit card,DSL,0,1,0
+100028,42,52.34,3,25.4,Month-to-month,UPI,Fiber,0,1,0
+100029,46,108.69,4,12.5,Two year,Electronic check,Fiber,0,0,0
+100030,24,108.15,0,26.8,One year,Electronic check,Fiber,1,0,0
+100031,30,45.82,2,21.5,One year,UPI,Fiber,0,1,0
+100032,16,85.23,1,9.6,Two year,Electronic check,5G,0,1,0
+100033,11,58.61,3,31.7,One year,UPI,Fiber,0,1,0
+100034,7,90.68,1,26.9,Month-to-month,Electronic check,Fiber,1,1,0
+100035,54,55.75,2,21.8,Month-to-month,Electronic check,Fiber,0,1,0
+100036,30,47.18,4,27.7,One year,Electronic check,Fiber,0,1,0
+100037,28,83.75,1,35.5,One year,Credit card,Fiber,1,1,0
+100038,15,61.15,0,45.4,Month-to-month,Credit card,Fiber,0,1,0
+100039,16,78.24,1,17.6,Month-to-month,Bank transfer,Fiber,1,1,0
+100040,34,63.21,4,37.9,One year,UPI,DSL,0,1,0
+100041,15,48.72,2,25.9,Month-to-month,Credit card,DSL,0,1,0
+100042,22,25.0,1,24.5,One year,Bank transfer,Fiber,0,0,0
+100043,14,94.63,1,20.8,One year,Credit card,DSL,0,1,0
+100044,15,79.87,0,35.9,Month-to-month,Credit card,Fiber,0,0,0
+100045,34,25.43,2,15.6,Month-to-month,Electronic check,Fiber,0,0,0
+100046,9,48.62,7,29.9,One year,UPI,5G,1,1,0
+100047,22,67.0,0,31.7,Month-to-month,Credit card,Fiber,0,1,0
+100048,38,101.2,2,25.0,Two year,UPI,Fiber,0,1,0
+100049,4,87.9,0,17.6,Month-to-month,Electronic check,Fiber,1,1,0
+100050,9,90.01,1,39.5,Month-to-month,Bank transfer,Fiber,0,1,0
+100051,72,81.08,1,17.9,One year,UPI,Fiber,0,1,0
+100052,29,72.16,1,29.8,Month-to-month,Electronic check,Fiber,0,1,0
+100053,11,75.17,2,23.1,Month-to-month,UPI,5G,1,0,0
+100054,24,81.64,1,15.9,One year,Credit card,DSL,0,0,0
+100055,19,59.19,1,34.4,Two year,Credit card,DSL,0,1,0
+100056,28,27.06,1,19.5,One year,Electronic check,Fiber,0,1,0
+100057,35,80.46,2,10.4,One year,Credit card,5G,1,1,0
+100058,50,68.06,0,26.1,Two year,UPI,5G,0,0,0
+100059,3,39.13,1,10.5,Month-to-month,UPI,5G,0,1,0
+100060,16,,0,17.1,Month-to-month,Bank transfer,Fiber,0,0,0
+100061,66,97.32,1,26.6,Month-to-month,Bank transfer,5G,0,1,0
+100062,40,52.38,1,23.6,Month-to-month,Electronic check,Fiber,0,1,0
+100063,34,64.95,2,14.0,One year,UPI,DSL,0,1,0
+100064,18,61.91,1,32.0,Month-to-month,Electronic check,5G,0,1,0
+100065,47,53.05,1,27.3,Two year,UPI,Fiber,0,0,0
+100066,57,56.67,4,8.0,Month-to-month,Credit card,Fiber,0,1,0
+100067,65,67.32,3,12.0,Month-to-month,Electronic check,Fiber,0,0,0
+100068,11,91.41,2,41.1,Two year,Credit card,DSL,1,1,0
+100069,10,74.5,3,14.6,Month-to-month,Bank transfer,5G,0,1,1
+100070,7,90.82,1,29.7,Two year,UPI,5G,0,0,0
+100071,72,67.46,2,23.3,Month-to-month,Electronic check,Fiber,1,1,0
+100072,70,73.97,1,32.3,Month-to-month,Credit card,DSL,0,0,0
+100073,2,37.43,3,13.0,One year,Credit card,5G,0,1,0
+100074,8,81.4,2,25.0,Month-to-month,Credit card,Fiber,0,1,0
+100075,29,91.5,0,18.8,Month-to-month,Electronic check,Fiber,1,0,0
+100076,62,73.7,1,22.7,One year,Electronic check,Fiber,1,1,0
+100077,36,94.62,1,26.7,One year,Bank transfer,Fiber,0,1,0
+100078,28,97.91,0,26.7,One year,Electronic check,Fiber,0,1,0
+100079,21,75.48,2,15.9,Month-to-month,Credit card,DSL,0,0,0
+100080,13,82.38,0,18.8,Month-to-month,Bank transfer,5G,0,1,0
+100081,7,114.73,3,9.5,Month-to-month,UPI,Fiber,0,1,0
+100082,3,55.44,1,24.6,One year,Credit card,DSL,0,1,0
+100083,40,80.86,1,26.7,Month-to-month,Bank transfer,DSL,0,1,0
+100084,72,112.28,1,18.2,One year,Credit card,Fiber,0,1,0
+100085,12,58.9,1,24.5,Month-to-month,UPI,DSL,0,0,0
+100086,12,113.65,5,39.4,One year,Electronic check,Fiber,0,0,0
+100087,40,75.63,0,9.2,Month-to-month,Credit card,DSL,0,1,0
+100088,57,58.46,0,34.3,Two year,Electronic check,Fiber,0,0,0
+100089,36,85.92,1,11.9,Two year,UPI,DSL,0,1,0
+100090,55,90.5,4,37.9,Month-to-month,Electronic check,Fiber,1,1,0
+100091,18,63.15,0,19.3,Two year,Credit card,5G,1,0,0
+100092,72,78.03,0,26.3,One year,Electronic check,DSL,1,1,0
+100093,37,65.53,2,40.3,Month-to-month,Electronic check,DSL,0,1,0
+100094,14,61.18,1,15.8,Month-to-month,Credit card,Fiber,0,1,0
+100095,49,81.9,1,33.2,One year,Credit card,5G,1,0,0
+100096,21,94.71,3,21.4,Two year,Electronic check,Fiber,0,1,0
+100097,33,55.89,1,32.6,Month-to-month,Electronic check,Fiber,0,1,0
+100098,19,69.97,2,27.6,One year,Electronic check,Fiber,0,0,0
+100099,36,117.5,1,20.9,Month-to-month,UPI,Fiber,0,1,0
+100100,19,86.08,3,4.8,One year,Credit card,Fiber,1,1,0
+100101,30,41.5,0,26.6,Two year,Credit card,Fiber,0,0,0
+100102,7,90.11,3,25.2,Month-to-month,Electronic check,Fiber,0,0,0
+100103,32,48.01,4,27.6,One year,Electronic check,Fiber,0,0,0
+100104,27,40.33,1,23.4,Month-to-month,Electronic check,DSL,0,0,0
+100105,33,72.04,1,17.7,Two year,Electronic check,DSL,0,1,0
+100106,29,103.33,2,16.2,Month-to-month,Electronic check,DSL,0,0,0
+100107,29,93.81,0,10.7,Month-to-month,UPI,Fiber,1,0,1
+100108,17,104.42,2,10.9,Two year,Bank transfer,5G,0,1,0
+100109,37,91.31,2,27.5,Month-to-month,Credit card,5G,0,0,0
+100110,17,66.06,1,21.8,Two year,Bank transfer,Fiber,0,0,0
+100111,43,84.66,1,6.2,Two year,UPI,Fiber,0,0,0
+100112,26,111.86,1,26.9,Month-to-month,Credit card,5G,0,1,0
+100113,15,117.45,1,15.0,Month-to-month,Credit card,DSL,0,0,0
+100114,7,39.06,1,26.7,One year,Electronic check,Fiber,0,1,0
+100115,7,80.3,2,25.4,Month-to-month,UPI,Fiber,1,0,0
+100116,16,58.99,1,32.2,Month-to-month,Electronic check,5G,0,0,0
+100117,32,94.1,0,30.0,Month-to-month,Electronic check,DSL,0,1,0
+100118,14,88.48,1,18.6,Month-to-month,Credit card,5G,1,1,0
+100119,10,73.66,3,17.0,Month-to-month,UPI,DSL,1,0,0
+100120,21,58.16,3,16.9,Two year,UPI,Fiber,0,1,0
+100121,62,82.88,0,36.1,Two year,Bank transfer,Fiber,0,1,0
+100122,38,71.75,0,10.5,Month-to-month,Credit card,DSL,0,0,0
+100123,34,76.72,1,18.5,Month-to-month,UPI,5G,0,1,0
+100124,72,70.29,2,27.4,Month-to-month,UPI,Fiber,0,1,0
+100125,38,80.7,0,11.0,Month-to-month,Bank transfer,Fiber,0,1,0
+100126,10,73.89,2,13.4,Two year,UPI,DSL,0,0,0
+100127,24,91.42,2,8.5,One year,Credit card,5G,0,0,0
+100128,23,25.0,1,25.6,Month-to-month,Bank transfer,5G,0,0,0
+100129,45,68.19,0,9.1,One year,Electronic check,5G,0,0,0
+100130,20,62.89,3,8.9,Month-to-month,UPI,DSL,0,1,0
+100131,28,80.56,1,30.7,Two year,Electronic check,Fiber,0,1,0
+100132,56,92.09,0,3.8,One year,Bank transfer,Fiber,0,1,0
+100133,7,78.2,0,16.3,Month-to-month,Credit card,Fiber,0,1,0
+100134,5,74.96,3,22.1,One year,Bank transfer,5G,0,0,0
+100135,38,62.74,2,16.4,Month-to-month,Credit card,Fiber,1,1,0
+100136,15,89.49,2,17.9,Month-to-month,Bank transfer,Fiber,0,0,0
+100137,9,113.59,1,26.7,Month-to-month,Credit card,5G,0,0,0
+100138,25,82.78,2,12.7,One year,Credit card,Fiber,0,1,0
+100139,61,78.49,0,27.1,One year,Electronic check,DSL,1,1,0
+100140,34,82.88,2,25.5,One year,Credit card,Fiber,1,1,0
+100141,17,61.61,2,15.3,One year,Electronic check,DSL,0,0,0
+100142,45,56.31,4,28.9,One year,UPI,DSL,0,1,0
+100143,50,55.19,2,15.5,One year,Bank transfer,5G,1,0,0
+100144,25,77.15,4,20.1,Month-to-month,Credit card,Fiber,0,0,0
+100145,8,89.14,0,17.6,Month-to-month,Electronic check,DSL,0,0,0
+100146,46,79.57,2,15.1,Month-to-month,Credit card,5G,1,1,0
+100147,26,66.23,0,23.2,Month-to-month,Electronic check,Fiber,1,0,0
+100148,15,86.74,2,3.2,Month-to-month,Bank transfer,Fiber,0,0,0
+100149,12,65.85,1,15.2,Month-to-month,Electronic check,DSL,0,0,0
+100150,15,80.44,3,18.1,Month-to-month,UPI,Fiber,0,0,0
+100151,23,61.2,2,27.3,Two year,Electronic check,DSL,0,0,0
+100152,72,80.84,4,25.3,Two year,UPI,Fiber,0,0,0
+100153,30,52.74,0,18.4,One year,Electronic check,5G,0,0,0
+100154,15,38.09,4,35.9,One year,Bank transfer,Fiber,0,0,0
+100155,49,84.3,2,9.6,Month-to-month,Credit card,Fiber,0,1,0
+100156,26,103.82,0,21.0,One year,Bank transfer,DSL,0,1,0
+100157,23,63.16,2,22.8,Month-to-month,Electronic check,5G,0,0,0
+100158,15,25.0,5,10.8,Month-to-month,Credit card,Fiber,0,0,0
+100159,20,97.42,3,9.9,Month-to-month,Electronic check,Fiber,0,0,1
+100160,12,76.09,2,23.7,One year,Electronic check,5G,0,0,0
+100161,28,123.79,1,17.2,Month-to-month,Bank transfer,DSL,0,0,0
+100162,12,104.85,2,30.7,Month-to-month,UPI,DSL,0,1,0
+100163,43,61.53,1,17.0,Month-to-month,Electronic check,Fiber,0,0,0
+100164,14,72.2,2,18.3,One year,Electronic check,DSL,0,1,0
+100165,30,83.92,1,33.6,Month-to-month,Bank transfer,DSL,1,0,0
+100166,19,59.77,5,11.2,Month-to-month,Electronic check,Fiber,0,0,0
+100167,10,107.43,3,22.3,Month-to-month,Electronic check,Fiber,0,1,1
+100168,16,87.52,1,30.7,One year,Credit card,Fiber,0,1,0
+100169,17,56.14,4,22.0,Month-to-month,Electronic check,Fiber,0,1,0
+100170,32,103.3,1,17.3,Month-to-month,Credit card,Fiber,1,1,1
+100171,9,45.22,2,30.6,Month-to-month,UPI,Fiber,0,1,0
+100172,38,86.32,2,6.7,Two year,Bank transfer,DSL,0,0,0
+100173,15,45.5,1,20.3,Month-to-month,UPI,DSL,0,1,0
+100174,19,95.23,2,14.1,One year,Bank transfer,Fiber,0,1,0
+100175,33,55.54,2,23.2,Month-to-month,Electronic check,Fiber,0,1,1
+100176,20,61.37,0,18.5,Month-to-month,Electronic check,5G,0,0,0
+100177,42,80.04,1,16.2,One year,Credit card,5G,0,1,0
+100178,3,80.8,2,28.8,Two year,Bank transfer,5G,0,0,0
+100179,10,81.18,1,22.8,Month-to-month,Bank transfer,Fiber,0,1,0
+100180,67,75.77,1,25.4,Two year,UPI,Fiber,0,0,0
+100181,44,51.35,5,28.8,Month-to-month,Electronic check,Fiber,0,0,0
+100182,10,68.02,1,7.0,Month-to-month,Electronic check,Fiber,1,0,1
+100183,29,72.88,0,18.9,One year,Electronic check,Fiber,0,1,0
+100184,72,79.82,1,19.6,Month-to-month,Bank transfer,DSL,0,1,0
+100185,14,59.92,0,28.6,Month-to-month,Credit card,DSL,0,1,0
+100186,47,89.24,2,5.2,Month-to-month,Credit card,DSL,0,1,0
+100187,16,,3,25.9,Month-to-month,Bank transfer,DSL,0,1,0
+100188,7,58.36,5,32.5,Month-to-month,Electronic check,Fiber,0,0,0
+100189,13,51.64,1,17.6,Two year,Bank transfer,DSL,0,1,0
+100190,22,51.11,1,27.8,One year,Credit card,Fiber,1,1,0
+100191,44,49.99,1,20.2,Month-to-month,Electronic check,5G,1,0,0
+100192,21,57.97,1,27.2,Month-to-month,Credit card,Fiber,0,0,0
+100193,33,104.33,1,31.0,One year,Credit card,DSL,0,1,1
+100194,57,72.81,2,25.9,Two year,Bank transfer,Fiber,0,1,0
+100195,3,111.6,3,37.9,Month-to-month,Bank transfer,DSL,0,1,1
+100196,26,33.2,2,15.2,Two year,Bank transfer,Fiber,0,1,0
+100197,16,89.92,4,30.4,Month-to-month,Credit card,5G,0,0,0
+100198,36,87.15,1,43.0,Month-to-month,Credit card,Fiber,0,0,0
+100199,56,35.24,3,19.7,Month-to-month,UPI,DSL,0,1,0
+100200,6,76.11,2,19.7,Month-to-month,Electronic check,5G,0,0,0
+100201,37,76.24,1,19.1,One year,Electronic check,DSL,0,0,0
+100202,20,80.93,0,13.4,One year,Credit card,5G,0,1,1
+100203,28,58.52,2,10.4,One year,UPI,5G,0,0,0
+100204,7,82.06,1,40.4,Two year,Credit card,5G,0,1,0
+100205,27,94.75,3,17.2,Month-to-month,UPI,DSL,0,1,1
+100206,66,49.93,0,31.8,Month-to-month,Credit card,Fiber,0,1,0
+100207,34,63.61,1,31.1,Month-to-month,Bank transfer,Fiber,1,1,0
+100208,14,85.47,1,31.2,Month-to-month,Electronic check,DSL,0,1,0
+100209,17,52.18,3,7.3,Month-to-month,Credit card,DSL,0,1,0
+100210,72,91.31,0,16.1,One year,Electronic check,Fiber,0,1,0
+100211,55,72.4,2,25.8,Month-to-month,Credit card,5G,0,0,0
+100212,34,92.27,0,22.9,Month-to-month,Bank transfer,DSL,0,1,0
+100213,35,25.0,2,23.9,Two year,Credit card,Fiber,1,0,0
+100214,15,93.3,1,19.6,One year,Electronic check,Fiber,0,1,0
+100215,46,83.05,1,11.3,One year,Electronic check,DSL,1,1,0
+100216,35,87.01,2,24.6,Month-to-month,Credit card,DSL,0,1,0
+100217,26,56.8,3,18.5,Two year,Electronic check,5G,1,1,0
+100218,39,109.01,1,5.5,One year,Credit card,Fiber,0,1,0
+100219,60,55.64,2,19.9,Month-to-month,Electronic check,5G,0,0,0
+100220,12,92.88,2,12.8,Two year,Electronic check,5G,0,1,0
+100221,51,70.51,1,34.2,Month-to-month,Bank transfer,DSL,0,1,0
+100222,27,30.48,0,7.6,Month-to-month,UPI,Fiber,0,1,0
+100223,13,86.63,2,14.5,Month-to-month,UPI,DSL,1,1,0
+100224,72,73.38,4,25.5,Month-to-month,Credit card,DSL,0,0,0
+100225,40,55.71,2,14.2,Month-to-month,Electronic check,5G,0,1,0
+100226,7,68.81,2,37.6,One year,Credit card,DSL,0,1,0
+100227,15,132.84,0,21.9,One year,Electronic check,Fiber,1,1,0
+100228,26,57.42,2,22.1,Month-to-month,Electronic check,5G,1,0,0
+100229,22,94.29,1,26.2,Month-to-month,Bank transfer,Fiber,0,0,0
+100230,11,68.74,0,44.6,Month-to-month,UPI,Fiber,1,0,0
+100231,52,76.43,0,26.3,Month-to-month,Electronic check,5G,0,0,0
+100232,15,93.22,0,27.1,One year,Bank transfer,Fiber,0,1,0
+100233,22,92.93,0,23.9,Two year,UPI,5G,0,0,0
+100234,72,81.34,2,20.1,Two year,Credit card,Fiber,0,0,0
+100235,11,50.21,4,37.8,One year,Credit card,Fiber,0,0,0
+100236,22,78.36,3,28.8,One year,Electronic check,Fiber,0,0,1
+100237,28,77.11,4,20.5,Month-to-month,Electronic check,Fiber,0,0,0
+100238,8,58.95,1,12.8,Month-to-month,Credit card,5G,0,1,0
+100239,48,48.64,1,24.5,Two year,Credit card,Fiber,1,1,0
+100240,27,99.02,0,23.3,Month-to-month,Bank transfer,DSL,0,0,0
+100241,53,46.65,2,8.7,Month-to-month,UPI,DSL,0,0,0
+100242,33,87.23,1,11.9,One year,Electronic check,Fiber,0,0,0
+100243,10,55.73,0,7.7,Month-to-month,Bank transfer,5G,0,1,0
+100244,7,86.81,1,28.3,Month-to-month,Bank transfer,Fiber,0,0,0
+100245,31,29.11,1,19.4,One year,UPI,DSL,0,1,0
+100246,10,91.46,2,9.5,One year,Electronic check,DSL,0,0,0
+100247,23,65.29,2,14.0,One year,Credit card,Fiber,0,1,1
+100248,14,51.16,1,24.7,Month-to-month,Electronic check,DSL,0,0,0
+100249,34,115.79,1,12.0,Two year,Bank transfer,DSL,0,1,0
+100250,9,71.49,2,13.3,One year,Electronic check,DSL,1,1,0
+100251,33,76.88,1,20.3,One year,Credit card,Fiber,0,1,0
+100252,12,75.7,2,24.3,Two year,Bank transfer,DSL,0,0,0
+100253,38,89.0,1,13.3,Month-to-month,Credit card,Fiber,1,1,0
+100254,72,60.43,2,5.1,Two year,Credit card,5G,0,1,0
+100255,10,107.54,1,30.7,One year,Electronic check,5G,0,0,0
+100256,12,54.54,0,21.2,One year,Credit card,Fiber,0,1,0
+100257,54,60.22,2,26.3,One year,UPI,DSL,0,1,0
+100258,37,76.67,1,20.6,Month-to-month,Electronic check,DSL,0,1,0
+100259,31,119.08,4,19.5,One year,Bank transfer,DSL,1,1,0
+100260,15,61.87,2,25.1,Month-to-month,Credit card,5G,0,1,0
+100261,25,81.04,0,24.2,Two year,Bank transfer,Fiber,0,0,0
+100262,17,62.62,2,25.7,Two year,Credit card,Fiber,0,1,0
+100263,33,55.73,1,29.9,Month-to-month,UPI,DSL,0,0,0
+100264,21,78.61,2,15.4,One year,Credit card,DSL,0,0,0
+100265,19,,2,19.5,One year,Electronic check,5G,0,1,0
+100266,29,43.42,1,16.0,Month-to-month,Electronic check,5G,0,1,0
+100267,41,77.61,2,17.3,One year,Bank transfer,5G,0,0,0
+100268,22,83.95,2,2.0,Month-to-month,Electronic check,Fiber,0,0,0
+100269,25,67.49,2,4.8,Two year,Electronic check,Fiber,0,1,0
+100270,43,65.52,2,28.1,Two year,Credit card,DSL,0,1,0
+100271,39,54.91,2,11.2,One year,Credit card,Fiber,0,0,0
+100272,30,63.08,1,14.0,Month-to-month,Bank transfer,5G,0,0,0
+100273,25,59.48,4,25.0,Month-to-month,Electronic check,5G,0,1,0
+100274,29,92.97,1,8.5,One year,Credit card,Fiber,1,1,0
+100275,8,58.98,1,39.3,Month-to-month,Electronic check,DSL,0,1,0
+100276,44,79.08,2,35.9,Two year,UPI,DSL,1,0,0
+100277,29,99.94,0,2.1,One year,Credit card,DSL,0,0,0
+100278,46,50.47,0,31.9,One year,Bank transfer,Fiber,0,0,0
+100279,4,52.22,1,29.8,Month-to-month,Bank transfer,5G,0,0,0
+100280,4,73.18,5,30.3,Month-to-month,Electronic check,Fiber,0,1,0
+100281,7,60.2,3,7.9,Month-to-month,UPI,Fiber,0,1,0
+100282,14,93.75,1,18.9,Month-to-month,Bank transfer,DSL,0,0,0
+100283,15,89.56,2,24.6,One year,Credit card,Fiber,1,1,0
+100284,26,79.21,1,19.9,Month-to-month,UPI,5G,0,1,0
+100285,34,98.59,0,24.9,Two year,Electronic check,DSL,0,0,0
+100286,26,65.94,1,22.2,Month-to-month,Credit card,Fiber,0,0,0
+100287,28,74.71,2,32.8,Two year,Credit card,Fiber,0,0,0
+100288,19,98.45,3,6.7,Month-to-month,Electronic check,DSL,0,1,0
+100289,51,125.64,1,29.5,Month-to-month,UPI,5G,0,0,0
+100290,30,,2,29.7,One year,Electronic check,5G,0,0,0
+100291,20,65.63,2,35.7,Month-to-month,Credit card,DSL,0,0,0
+100292,33,107.07,2,3.5,One year,Bank transfer,Fiber,0,0,0
+100293,20,74.3,3,4.3,One year,UPI,5G,1,1,0
+100294,27,41.19,4,14.9,Month-to-month,Credit card,Fiber,0,1,0
+100295,41,82.43,7,28.1,Month-to-month,Electronic check,DSL,0,0,0
+100296,19,72.91,3,15.6,Two year,Credit card,Fiber,0,1,0
+100297,14,76.37,1,37.4,Two year,Electronic check,5G,0,0,0
+100298,27,93.59,0,11.9,Month-to-month,Bank transfer,Fiber,1,1,0
+100299,44,62.07,2,26.7,One year,Electronic check,Fiber,0,1,0
+100300,12,60.85,1,24.2,Two year,Bank transfer,DSL,0,1,0
+100301,51,57.29,0,31.4,Month-to-month,Electronic check,DSL,1,1,0
+100302,19,99.99,1,24.9,Month-to-month,Electronic check,5G,0,1,0
+100303,42,80.03,0,15.8,Month-to-month,Electronic check,DSL,0,0,0
+100304,18,25.0,0,2.0,One year,Bank transfer,Fiber,0,1,0
+100305,44,94.05,2,20.8,Month-to-month,Credit card,5G,0,1,0
+100306,39,82.42,3,39.3,Month-to-month,UPI,Fiber,0,0,0
+100307,21,25.0,1,16.9,Month-to-month,Credit card,5G,1,1,0
+100308,25,109.04,1,21.0,One year,Electronic check,5G,1,1,0
+100309,31,113.88,1,30.0,Month-to-month,Credit card,Fiber,0,1,0
+100310,8,75.45,1,12.6,One year,Bank transfer,DSL,0,1,0
+100311,14,87.33,2,23.5,Month-to-month,Electronic check,Fiber,0,1,0
+100312,18,64.29,1,29.4,Two year,Electronic check,5G,0,1,0
+100313,52,62.31,4,16.4,Month-to-month,UPI,Fiber,0,1,1
+100314,8,98.58,2,27.6,Month-to-month,UPI,Fiber,0,1,0
+100315,39,63.31,2,23.2,Month-to-month,Electronic check,Fiber,1,1,0
+100316,34,62.67,2,21.3,Month-to-month,UPI,DSL,0,0,0
+100317,8,83.12,1,30.5,Month-to-month,Bank transfer,Fiber,0,0,0
+100318,25,41.58,3,2.0,Two year,Electronic check,Fiber,0,1,0
+100319,35,62.88,3,20.7,Two year,Electronic check,DSL,0,1,0
+100320,30,90.21,2,32.9,Month-to-month,UPI,Fiber,0,1,0
+100321,57,32.9,1,31.3,Month-to-month,Bank transfer,DSL,0,0,0
+100322,31,69.09,0,23.5,Month-to-month,UPI,Fiber,0,1,1
+100323,21,62.78,3,31.0,Month-to-month,Electronic check,Fiber,0,1,0
+100324,40,54.85,2,34.7,One year,Electronic check,Fiber,0,0,0
+100325,25,44.47,2,14.4,Two year,Electronic check,Fiber,0,1,0
+100326,12,50.97,2,33.0,Month-to-month,Credit card,DSL,0,1,0
+100327,17,56.24,2,20.8,Two year,Bank transfer,DSL,0,1,0
+100328,28,53.4,3,28.6,Month-to-month,UPI,DSL,0,1,0
+100329,7,65.82,2,15.9,Month-to-month,Electronic check,DSL,0,1,0
+100330,19,62.52,0,26.6,One year,Bank transfer,DSL,1,0,0
+100331,23,48.8,5,5.7,Two year,Electronic check,Fiber,1,0,0
+100332,28,78.75,1,12.4,Month-to-month,Electronic check,Fiber,0,1,0
+100333,38,77.29,0,24.2,Month-to-month,Bank transfer,5G,0,1,0
+100334,7,40.75,0,43.2,Two year,Electronic check,Fiber,0,1,0
+100335,8,94.16,1,24.2,Month-to-month,Electronic check,5G,0,0,0
+100336,15,67.32,1,33.7,Month-to-month,Electronic check,DSL,0,0,0
+100337,30,84.23,5,26.4,Month-to-month,Credit card,DSL,0,1,0
+100338,22,55.91,3,23.2,One year,Electronic check,5G,1,1,0
+100339,6,48.43,2,26.0,Month-to-month,Bank transfer,DSL,0,1,0
+100340,26,72.37,3,14.1,Month-to-month,Credit card,Fiber,0,1,0
+100341,55,49.9,1,2.0,Month-to-month,UPI,Fiber,0,0,0
+100342,17,93.56,0,38.2,Two year,Bank transfer,DSL,0,1,0
+100343,20,118.37,0,11.7,Two year,UPI,5G,0,1,0
+100344,31,88.27,2,34.5,Month-to-month,UPI,5G,1,1,0
+100345,47,72.04,0,18.5,Month-to-month,UPI,Fiber,1,1,0
+100346,22,62.85,1,17.9,One year,Credit card,Fiber,0,1,0
+100347,29,53.59,1,11.6,One year,UPI,5G,0,1,0
+100348,22,67.24,2,13.3,One year,Electronic check,Fiber,0,0,0
+100349,50,53.67,1,11.0,One year,Credit card,DSL,0,0,0
+100350,72,58.44,0,28.1,Month-to-month,Credit card,DSL,0,1,0
+100351,30,100.56,1,27.2,Month-to-month,Electronic check,5G,1,1,0
+100352,25,63.94,0,11.4,Month-to-month,Credit card,DSL,0,0,0
+100353,36,88.41,2,34.1,Month-to-month,UPI,5G,0,0,0
+100354,50,94.69,0,21.3,Month-to-month,Credit card,Fiber,0,0,0
+100355,24,75.17,3,20.9,Month-to-month,Credit card,DSL,1,1,0
+100356,3,80.3,4,10.4,Month-to-month,Bank transfer,Fiber,0,1,0
+100357,17,75.75,1,26.9,Month-to-month,Electronic check,DSL,0,0,0
+100358,18,54.18,1,29.5,One year,UPI,DSL,0,1,0
+100359,22,66.84,2,29.6,One year,Bank transfer,DSL,0,1,0
+100360,72,86.75,2,6.5,Month-to-month,Bank transfer,DSL,1,0,0
+100361,45,43.15,1,29.7,Two year,Electronic check,Fiber,0,0,0
+100362,19,61.09,3,37.3,Month-to-month,UPI,DSL,0,1,0
+100363,13,81.05,2,21.1,Month-to-month,Bank transfer,5G,0,1,1
+100364,60,84.35,2,32.1,One year,UPI,DSL,0,0,0
+100365,34,73.0,4,8.7,Month-to-month,Electronic check,Fiber,0,0,0
+100366,9,64.67,0,18.7,Month-to-month,Electronic check,Fiber,0,0,0
+100367,15,81.15,2,23.9,Month-to-month,Electronic check,Fiber,0,0,0
+100368,72,78.3,0,36.1,One year,Bank transfer,Fiber,0,1,0
+100369,24,73.17,1,21.1,Month-to-month,Bank transfer,Fiber,0,0,0
+100370,33,73.01,1,12.9,Month-to-month,Credit card,DSL,0,0,0
+100371,26,79.51,2,8.7,Month-to-month,Electronic check,DSL,1,0,0
+100372,20,59.12,1,16.7,Month-to-month,Bank transfer,DSL,0,0,0
+100373,15,94.1,2,26.5,Month-to-month,Bank transfer,Fiber,1,0,0
+100374,50,100.2,1,31.0,Month-to-month,Electronic check,Fiber,0,1,1
+100375,58,67.37,1,17.6,One year,Credit card,Fiber,1,1,0
+100376,54,25.0,1,11.3,One year,Bank transfer,Fiber,0,1,0
+100377,38,46.02,3,42.0,Month-to-month,Electronic check,Fiber,0,1,0
+100378,44,87.77,2,29.3,One year,Electronic check,Fiber,0,0,0
+100379,72,50.78,0,20.7,Month-to-month,Bank transfer,5G,0,0,0
+100380,12,82.35,1,21.3,Month-to-month,Credit card,DSL,0,0,0
+100381,32,44.65,2,29.4,Month-to-month,Bank transfer,5G,1,1,0
+100382,15,84.45,1,13.1,One year,UPI,DSL,0,1,0
+100383,61,74.59,4,19.1,Month-to-month,Electronic check,Fiber,0,0,0
+100384,24,72.53,0,18.0,Month-to-month,Credit card,5G,1,1,0
+100385,58,63.29,1,9.0,Month-to-month,Electronic check,5G,0,0,0
+100386,5,80.77,2,11.0,One year,Electronic check,Fiber,0,1,1
+100387,12,46.82,1,19.3,Two year,UPI,DSL,0,1,0
+100388,33,78.9,3,26.0,Month-to-month,Electronic check,DSL,0,0,1
+100389,19,66.66,2,15.8,One year,Credit card,Fiber,0,0,0
+100390,21,107.73,1,22.5,Month-to-month,UPI,DSL,0,1,0
+100391,12,27.65,1,26.6,Month-to-month,Electronic check,Fiber,0,1,0
+100392,58,76.16,0,30.5,Month-to-month,Credit card,DSL,0,0,0
+100393,58,56.68,1,26.5,Month-to-month,Credit card,Fiber,0,0,0
+100394,32,82.87,4,28.8,Two year,Electronic check,Fiber,0,0,0
+100395,21,92.54,1,25.8,Month-to-month,UPI,Fiber,0,0,0
+100396,16,41.38,2,22.3,One year,Bank transfer,Fiber,0,0,0
+100397,46,102.68,4,19.6,One year,Credit card,DSL,0,1,0
+100398,14,62.11,2,10.7,Two year,UPI,DSL,1,0,0
+100399,23,66.54,1,28.1,Month-to-month,Electronic check,DSL,0,0,0
+100400,45,56.23,1,16.9,Month-to-month,Electronic check,DSL,0,1,0
+100401,35,25.0,1,12.5,Month-to-month,Credit card,Fiber,0,1,0
+100402,43,60.59,1,24.3,Month-to-month,Bank transfer,5G,1,1,0
+100403,51,43.76,3,21.7,Month-to-month,Electronic check,DSL,1,1,0
+100404,31,35.12,4,39.4,Month-to-month,Bank transfer,Fiber,0,1,0
+100405,20,96.67,2,20.0,One year,Bank transfer,DSL,0,1,0
+100406,26,95.77,1,30.5,Month-to-month,Credit card,DSL,1,0,0
+100407,37,78.27,3,29.9,Two year,UPI,Fiber,0,1,0
+100408,14,50.51,2,15.3,Month-to-month,Electronic check,5G,0,1,0
+100409,39,96.49,1,30.0,Month-to-month,Credit card,DSL,0,1,0
+100410,21,73.75,1,13.5,Two year,Credit card,DSL,0,1,0
+100411,23,66.0,4,18.3,Month-to-month,UPI,Fiber,0,0,0
+100412,13,53.49,3,16.8,One year,Credit card,DSL,0,1,0
+100413,50,74.17,3,23.3,Two year,Electronic check,Fiber,0,1,0
+100414,27,66.58,1,7.5,One year,Credit card,Fiber,1,1,0
+100415,7,63.91,1,38.7,Month-to-month,Electronic check,Fiber,0,1,1
+100416,5,63.96,3,26.5,Month-to-month,Electronic check,Fiber,1,1,0
+100417,23,85.75,0,2.5,Month-to-month,Credit card,Fiber,0,0,0
+100418,24,83.71,1,27.5,Month-to-month,Electronic check,5G,0,0,0
+100419,11,101.08,4,34.3,Two year,UPI,5G,0,0,0
+100420,25,65.15,3,20.2,Two year,Credit card,5G,0,0,0
+100421,21,44.78,3,21.7,One year,Bank transfer,DSL,0,1,0
+100422,12,75.15,1,21.7,Month-to-month,UPI,5G,0,1,0
+100423,2,35.54,1,14.1,Two year,UPI,Fiber,0,1,0
+100424,15,51.46,1,26.7,Month-to-month,Credit card,Fiber,0,1,0
+100425,29,94.36,3,11.8,Month-to-month,Bank transfer,5G,1,1,1
+100426,28,107.08,2,16.5,Month-to-month,Credit card,Fiber,0,0,0
+100427,57,82.06,3,18.6,Month-to-month,Credit card,DSL,0,1,0
+100428,53,75.35,0,38.9,Month-to-month,Electronic check,5G,0,0,0
+100429,32,64.58,1,22.6,Two year,Bank transfer,Fiber,0,1,0
+100430,46,74.13,1,23.8,One year,Electronic check,Fiber,0,1,0
+100431,72,72.57,2,10.7,Month-to-month,Electronic check,DSL,0,0,0
+100432,17,78.53,1,18.9,Month-to-month,Bank transfer,Fiber,0,1,0
+100433,15,54.23,2,16.5,Month-to-month,Electronic check,Fiber,1,1,0
+100434,54,76.04,1,11.1,Month-to-month,Credit card,Fiber,0,1,0
+100435,43,40.99,1,29.7,One year,Bank transfer,5G,0,0,0
+100436,52,36.65,1,15.2,Month-to-month,Bank transfer,5G,0,0,0
+100437,28,96.3,1,31.2,One year,Bank transfer,Fiber,0,1,0
+100438,45,137.4,2,25.4,Month-to-month,Credit card,DSL,0,0,0
+100439,67,75.88,1,7.7,Two year,Bank transfer,Fiber,1,1,0
+100440,12,72.8,1,11.1,Month-to-month,Credit card,5G,0,1,0
+100441,39,,1,19.3,Month-to-month,UPI,DSL,0,1,0
+100442,72,42.48,0,19.5,Month-to-month,Bank transfer,Fiber,1,1,0
+100443,52,37.25,2,21.9,Month-to-month,Credit card,Fiber,0,0,0
+100444,28,87.65,2,18.6,Month-to-month,Electronic check,Fiber,0,0,0
+100445,15,103.0,1,33.4,One year,UPI,Fiber,1,1,0
+100446,63,84.76,1,19.1,One year,Credit card,5G,0,1,0
+100447,36,67.52,1,18.4,One year,Bank transfer,DSL,0,1,1
+100448,19,110.9,1,35.8,One year,Bank transfer,DSL,0,0,0
+100449,49,60.58,3,40.1,Month-to-month,Credit card,DSL,0,0,0
+100450,16,68.97,0,30.1,Two year,UPI,DSL,1,1,0
+100451,48,61.95,0,26.2,One year,Electronic check,5G,0,1,0
+100452,12,45.61,0,33.3,Month-to-month,UPI,Fiber,0,0,0
+100453,29,67.02,0,25.5,One year,UPI,Fiber,1,1,0
+100454,37,69.12,2,12.5,Month-to-month,Bank transfer,Fiber,0,1,0
+100455,4,69.34,0,29.5,Month-to-month,Bank transfer,DSL,0,0,0
+100456,34,84.38,3,27.3,Month-to-month,Electronic check,Fiber,0,1,0
+100457,4,58.9,3,20.0,Month-to-month,Electronic check,DSL,1,1,0
+100458,31,99.78,3,19.0,One year,Credit card,Fiber,0,1,0
+100459,52,65.05,3,9.8,Month-to-month,Bank transfer,DSL,0,1,0
+100460,17,48.63,2,31.1,One year,Credit card,Fiber,0,0,0
+100461,32,47.24,1,4.1,One year,UPI,Fiber,0,0,0
+100462,22,62.67,3,12.8,Month-to-month,UPI,Fiber,0,1,0
+100463,43,67.29,3,2.6,One year,Bank transfer,DSL,0,1,0
+100464,38,80.77,0,26.9,Month-to-month,Electronic check,Fiber,1,0,0
+100465,53,74.62,2,37.1,One year,Electronic check,5G,0,1,0
+100466,34,96.09,3,23.9,Month-to-month,Electronic check,DSL,0,1,0
+100467,17,61.51,2,28.1,One year,UPI,DSL,0,1,0
+100468,15,86.53,2,11.0,Month-to-month,Credit card,Fiber,0,0,0
+100469,3,73.97,2,40.0,Month-to-month,Electronic check,DSL,0,0,1
+100470,20,85.95,1,22.0,One year,Credit card,Fiber,1,1,0
+100471,25,56.1,1,31.4,One year,Credit card,DSL,0,1,0
+100472,28,91.13,2,42.7,Month-to-month,Electronic check,Fiber,0,1,0
+100473,23,49.76,2,10.5,Two year,Credit card,Fiber,0,0,0
+100474,16,120.34,1,10.3,Month-to-month,Credit card,Fiber,1,1,0
+100475,30,37.9,4,42.0,Month-to-month,Electronic check,Fiber,0,1,0
+100476,24,61.71,2,20.5,Month-to-month,Bank transfer,Fiber,0,1,0
+100477,2,70.15,4,23.6,Month-to-month,Electronic check,Fiber,1,0,0
+100478,13,105.15,3,15.2,Two year,UPI,Fiber,0,1,0
+100479,14,110.0,3,27.5,One year,Bank transfer,5G,0,1,0
+100480,24,50.13,0,11.7,Two year,Electronic check,DSL,0,0,0
+100481,41,98.41,0,32.7,Month-to-month,Electronic check,5G,0,1,0
+100482,42,40.57,1,24.2,Month-to-month,Electronic check,5G,0,1,0
+100483,11,111.92,2,17.1,Month-to-month,Electronic check,DSL,0,1,0
+100484,72,61.4,2,22.8,One year,Bank transfer,DSL,0,0,0
+100485,54,84.42,1,22.0,One year,Credit card,Fiber,1,1,0
+100486,63,77.14,2,31.2,Month-to-month,UPI,DSL,0,0,0
+100487,3,53.3,1,19.6,One year,Credit card,Fiber,1,1,0
+100488,36,73.51,5,26.5,Month-to-month,Electronic check,DSL,0,1,0
+100489,34,81.23,1,28.2,Month-to-month,Electronic check,DSL,0,1,1
+100490,20,46.42,1,28.1,Month-to-month,Bank transfer,Fiber,1,1,0
+100491,55,80.75,1,20.3,One year,Bank transfer,DSL,0,0,0
+100492,24,68.91,1,20.8,One year,Electronic check,Fiber,0,0,0
+100493,33,55.13,3,9.5,Month-to-month,Electronic check,Fiber,0,1,0
+100494,22,95.12,1,20.9,Two year,Electronic check,DSL,0,0,0
+100495,19,56.58,3,17.3,Month-to-month,Electronic check,Fiber,0,0,0
+100496,5,36.03,1,26.6,Month-to-month,Electronic check,DSL,0,1,0
+100497,19,87.6,1,19.5,One year,Credit card,DSL,0,0,0
+100498,8,50.71,0,7.6,Month-to-month,Electronic check,Fiber,0,1,0
+100499,12,74.26,1,13.1,Month-to-month,Credit card,Fiber,0,1,0
+100500,46,50.94,0,6.5,One year,UPI,Fiber,0,0,0
+100501,33,100.61,3,20.8,Month-to-month,Electronic check,Fiber,0,1,0
+100502,36,75.93,1,22.9,One year,Bank transfer,5G,0,1,0
+100503,32,87.63,2,23.0,Month-to-month,Credit card,Fiber,0,1,0
+100504,32,58.93,1,9.9,Month-to-month,Electronic check,Fiber,0,0,1
+100505,33,50.89,0,18.8,One year,Electronic check,DSL,0,0,0
+100506,10,70.18,1,29.6,One year,Credit card,5G,0,1,0
+100507,23,85.52,1,8.3,One year,UPI,Fiber,0,1,0
+100508,55,85.86,2,24.5,Two year,Bank transfer,Fiber,0,0,0
+100509,15,,1,24.2,Two year,Bank transfer,Fiber,0,1,0
+100510,20,78.74,2,15.0,Month-to-month,Electronic check,Fiber,0,0,0
+100511,6,106.99,2,25.6,Two year,Credit card,Fiber,0,1,0
+100512,2,47.85,2,31.3,Month-to-month,Electronic check,5G,0,0,0
+100513,33,64.42,5,2.0,One year,Bank transfer,Fiber,0,0,0
+100514,9,50.54,5,14.4,One year,Credit card,DSL,1,1,0
+100515,46,75.64,2,28.5,One year,Bank transfer,DSL,0,0,0
+100516,61,51.5,2,32.8,Month-to-month,Credit card,5G,0,1,0
+100517,32,83.28,1,7.2,Month-to-month,Credit card,Fiber,1,1,1
+100518,10,72.15,5,25.6,Month-to-month,Credit card,Fiber,0,1,0
+100519,54,77.63,2,19.9,One year,Electronic check,Fiber,0,1,0
+100520,43,78.76,1,26.7,Month-to-month,Credit card,Fiber,0,1,0
+100521,13,65.51,3,23.5,Month-to-month,Credit card,DSL,1,0,0
+100522,45,95.52,1,24.5,Month-to-month,Bank transfer,5G,0,0,0
+100523,10,118.33,5,26.5,One year,Electronic check,Fiber,0,0,0
+100524,23,83.9,1,25.4,Month-to-month,Bank transfer,DSL,0,1,0
+100525,19,,1,34.7,Month-to-month,Credit card,Fiber,0,0,0
+100526,46,84.5,5,21.8,One year,Credit card,Fiber,0,1,0
+100527,15,59.43,3,19.3,Month-to-month,Credit card,DSL,0,1,0
+100528,49,54.16,2,26.1,One year,UPI,Fiber,0,1,0
+100529,20,58.17,3,40.0,Two year,Bank transfer,DSL,1,1,0
+100530,28,82.84,0,19.1,Two year,Electronic check,DSL,0,1,0
+100531,5,79.49,4,30.1,Month-to-month,Electronic check,DSL,0,0,0
+100532,30,106.97,2,26.0,Month-to-month,Electronic check,5G,0,1,0
+100533,36,41.83,2,27.4,Month-to-month,Bank transfer,Fiber,1,0,0
+100534,59,84.53,1,10.3,Month-to-month,Bank transfer,DSL,0,1,0
+100535,36,103.29,2,19.3,Month-to-month,Electronic check,5G,0,0,0
+100536,28,46.29,1,29.3,Month-to-month,Bank transfer,Fiber,0,0,0
+100537,25,91.62,1,23.8,Month-to-month,Electronic check,Fiber,1,1,0
+100538,31,85.05,3,40.8,One year,Bank transfer,Fiber,0,1,0
+100539,22,72.94,1,19.9,One year,Electronic check,Fiber,0,0,0
+100540,17,39.0,2,11.0,Month-to-month,UPI,5G,1,1,0
+100541,24,56.79,2,27.6,Month-to-month,Bank transfer,DSL,1,1,0
+100542,41,90.45,2,11.7,One year,Electronic check,Fiber,0,0,1
+100543,33,94.33,4,27.8,Month-to-month,Electronic check,DSL,1,1,0
+100544,19,,0,24.0,One year,Credit card,Fiber,0,1,0
+100545,40,67.49,2,14.8,One year,Credit card,5G,0,0,0
+100546,18,100.85,0,23.3,Month-to-month,Electronic check,5G,0,0,0
+100547,13,76.6,4,13.0,One year,Bank transfer,Fiber,0,0,0
+100548,45,85.28,1,36.3,Month-to-month,Electronic check,Fiber,0,1,0
+100549,14,88.86,1,11.4,Two year,UPI,DSL,0,1,0
+100550,8,32.7,2,25.0,Two year,UPI,Fiber,0,0,0
+100551,13,140.28,2,19.1,Month-to-month,Electronic check,Fiber,0,1,0
+100552,16,85.88,0,20.1,One year,Bank transfer,DSL,0,0,0
+100553,29,115.07,0,9.6,One year,Electronic check,5G,0,0,0
+100554,38,57.28,3,20.0,Month-to-month,UPI,5G,0,1,0
+100555,16,37.73,1,18.2,Two year,UPI,Fiber,0,1,0
+100556,26,85.56,0,27.8,Month-to-month,Electronic check,Fiber,1,1,1
+100557,27,37.55,1,31.2,One year,UPI,DSL,0,1,0
+100558,69,58.49,2,22.2,One year,Credit card,DSL,0,0,0
+100559,22,71.33,2,8.1,One year,Electronic check,DSL,1,1,0
+100560,14,44.57,2,10.7,One year,Electronic check,5G,0,1,0
+100561,7,74.57,3,10.6,One year,Electronic check,5G,0,0,0
+100562,2,72.24,0,25.4,Month-to-month,UPI,Fiber,0,1,0
+100563,9,67.38,2,25.6,Month-to-month,Credit card,5G,0,1,0
+100564,39,61.05,3,15.4,One year,UPI,DSL,0,1,0
+100565,47,101.79,5,23.3,Month-to-month,Electronic check,5G,1,1,0
+100566,42,73.59,0,17.8,Month-to-month,UPI,Fiber,1,1,0
+100567,22,77.7,2,22.7,Month-to-month,Electronic check,Fiber,0,1,0
+100568,39,,5,21.0,Month-to-month,Credit card,DSL,1,1,0
+100569,13,56.97,2,28.5,Month-to-month,Electronic check,Fiber,0,1,0
+100570,8,67.09,0,22.8,Month-to-month,Credit card,DSL,0,0,0
+100571,22,122.98,1,23.6,Two year,Bank transfer,Fiber,1,1,0
+100572,21,58.86,2,8.9,Two year,UPI,DSL,0,1,0
+100573,44,107.76,1,14.2,Month-to-month,Credit card,5G,0,1,0
+100574,35,34.04,2,19.7,Two year,Electronic check,Fiber,0,1,0
+100575,14,77.32,4,7.9,Month-to-month,Credit card,5G,0,1,0
+100576,14,61.19,3,24.2,One year,Credit card,DSL,1,0,0
+100577,29,78.62,0,45.9,Two year,Credit card,Fiber,0,0,0
+100578,26,86.82,1,22.5,One year,UPI,Fiber,0,1,0
+100579,33,84.85,2,24.9,Month-to-month,UPI,Fiber,0,1,0
+100580,26,55.75,0,30.8,Two year,Bank transfer,Fiber,1,1,0
+100581,45,49.5,4,29.8,Two year,Credit card,DSL,0,1,0
+100582,12,84.65,5,34.4,Month-to-month,Electronic check,DSL,1,0,0
+100583,15,99.56,3,27.2,Month-to-month,Bank transfer,Fiber,0,1,0
+100584,11,86.07,1,21.5,Month-to-month,UPI,Fiber,0,1,0
+100585,17,103.63,1,22.9,Two year,Credit card,5G,0,0,0
+100586,18,57.72,0,20.6,Month-to-month,Bank transfer,DSL,0,0,0
+100587,9,52.5,4,18.3,Two year,Electronic check,DSL,0,0,0
+100588,3,63.85,3,39.4,One year,UPI,5G,0,1,0
+100589,15,93.98,2,25.6,Month-to-month,Bank transfer,DSL,0,1,0
+100590,47,,3,25.7,Month-to-month,Electronic check,Fiber,0,0,0
+100591,43,48.69,1,18.6,Month-to-month,Electronic check,Fiber,0,1,0
+100592,30,90.43,0,34.3,One year,Bank transfer,5G,0,0,0
+100593,31,59.89,3,26.3,Month-to-month,Credit card,DSL,0,0,1
+100594,14,56.86,4,10.1,Month-to-month,Bank transfer,DSL,0,1,0
+100595,8,43.92,1,36.4,One year,Credit card,5G,0,1,0
+100596,32,83.48,4,12.2,Month-to-month,Bank transfer,Fiber,0,1,0
+100597,34,74.73,0,6.4,Two year,UPI,DSL,1,1,0
+100598,24,93.05,0,21.9,Month-to-month,Electronic check,Fiber,1,0,1
+100599,72,64.23,4,21.4,Month-to-month,Bank transfer,5G,0,0,0
+100600,72,76.87,0,24.0,Month-to-month,Electronic check,Fiber,0,1,0
+100601,18,98.41,1,19.5,One year,Bank transfer,DSL,0,1,0
+100602,35,52.09,8,25.9,Month-to-month,Electronic check,5G,0,1,1
+100603,27,113.83,0,27.8,Month-to-month,Credit card,Fiber,0,0,1
+100604,72,76.62,3,37.1,Month-to-month,UPI,Fiber,0,0,0
+100605,37,,1,39.9,Two year,Bank transfer,5G,0,1,0
+100606,63,84.52,0,6.8,Two year,Bank transfer,Fiber,0,1,0
+100607,33,78.64,2,11.5,Month-to-month,Electronic check,Fiber,0,1,0
+100608,1,65.76,3,37.2,One year,Credit card,Fiber,0,1,0
+100609,46,76.16,2,16.6,One year,Credit card,Fiber,0,1,0
+100610,11,89.73,3,35.5,One year,Bank transfer,DSL,0,1,0
+100611,20,109.39,1,23.4,Month-to-month,Bank transfer,Fiber,0,0,0
+100612,38,98.88,2,21.6,One year,Electronic check,Fiber,0,0,0
+100613,52,102.7,0,20.2,One year,Credit card,Fiber,0,0,0
+100614,29,90.8,1,24.7,One year,Credit card,Fiber,0,0,0
+100615,14,75.35,2,24.9,Month-to-month,Bank transfer,DSL,0,0,1
+100616,16,51.73,3,16.7,Month-to-month,Credit card,DSL,0,1,0
+100617,59,68.48,1,28.4,Month-to-month,Electronic check,Fiber,1,0,0
+100618,34,59.18,2,13.1,One year,Bank transfer,Fiber,0,0,0
+100619,31,88.6,2,12.2,Two year,UPI,5G,1,1,0
+100620,12,25.0,2,19.1,One year,Credit card,Fiber,1,0,0
+100621,31,65.16,3,25.4,Month-to-month,Credit card,5G,0,1,0
+100622,14,84.68,0,41.0,Month-to-month,Electronic check,Fiber,0,0,1
+100623,37,81.14,0,35.1,Month-to-month,Credit card,Fiber,1,1,0
+100624,29,81.35,4,19.1,Month-to-month,Electronic check,DSL,0,1,0
+100625,21,80.97,0,18.7,One year,UPI,DSL,0,1,0
+100626,26,43.53,2,19.0,Month-to-month,UPI,Fiber,0,1,0
+100627,54,102.87,1,12.4,Two year,Electronic check,DSL,0,1,0
+100628,25,92.02,0,10.1,One year,Bank transfer,Fiber,0,0,0
+100629,57,100.46,0,21.5,Month-to-month,Electronic check,Fiber,0,0,0
+100630,27,78.69,2,28.2,Month-to-month,Electronic check,5G,0,1,0
+100631,16,65.52,2,34.4,Month-to-month,Credit card,DSL,0,1,1
+100632,34,92.28,2,14.0,Month-to-month,Credit card,Fiber,0,0,0
+100633,32,60.13,0,13.3,Month-to-month,Electronic check,Fiber,0,1,0
+100634,14,49.87,1,13.0,One year,Bank transfer,5G,0,1,0
+100635,40,31.98,2,25.7,Month-to-month,Bank transfer,5G,0,1,0
+100636,34,54.44,4,28.8,Month-to-month,Credit card,Fiber,0,1,0
+100637,50,68.56,1,6.5,Month-to-month,Electronic check,DSL,1,0,0
+100638,27,39.63,3,32.7,One year,Bank transfer,Fiber,0,1,0
+100639,13,35.2,0,26.6,Month-to-month,Bank transfer,Fiber,0,1,0
+100640,66,59.25,1,18.1,One year,Bank transfer,Fiber,0,1,0
+100641,20,,0,32.1,One year,Credit card,Fiber,0,1,0
+100642,11,65.43,0,23.1,Two year,Bank transfer,DSL,0,0,0
+100643,25,78.02,4,38.5,Month-to-month,Credit card,Fiber,0,1,0
+100644,14,48.48,2,28.9,Month-to-month,Credit card,DSL,1,0,0
+100645,21,75.23,2,20.2,One year,Credit card,Fiber,1,0,0
+100646,9,83.85,3,27.7,Month-to-month,Bank transfer,5G,0,1,0
+100647,10,43.46,1,27.5,One year,Electronic check,Fiber,0,0,0
+100648,44,60.96,1,20.4,Month-to-month,Electronic check,Fiber,0,0,1
+100649,29,63.92,0,12.4,Month-to-month,Credit card,Fiber,0,0,0
+100650,11,80.11,2,23.2,Month-to-month,Electronic check,Fiber,0,1,0
+100651,17,58.76,1,25.7,Month-to-month,Electronic check,5G,0,1,0
+100652,17,34.66,1,13.9,Month-to-month,Electronic check,Fiber,0,0,0
+100653,22,60.0,1,34.1,Month-to-month,UPI,Fiber,0,0,0
+100654,27,103.29,3,9.2,One year,Electronic check,Fiber,0,1,0
+100655,62,100.95,4,20.0,Month-to-month,Bank transfer,5G,0,1,0
+100656,41,59.62,2,22.5,Month-to-month,UPI,5G,0,1,0
+100657,29,53.47,2,18.9,Month-to-month,Electronic check,Fiber,0,0,0
+100658,20,50.56,2,27.0,Month-to-month,Credit card,DSL,0,1,0
+100659,8,63.13,1,24.5,Month-to-month,Credit card,5G,0,1,1
+100660,23,75.81,3,22.0,One year,Electronic check,Fiber,0,1,0
+100661,14,89.09,2,8.4,Two year,Credit card,Fiber,0,0,0
+100662,35,,3,15.1,One year,Electronic check,DSL,0,1,0
+100663,23,67.79,1,27.3,Month-to-month,UPI,Fiber,0,0,0
+100664,29,110.56,0,37.9,Month-to-month,Electronic check,5G,0,1,0
+100665,72,95.7,0,2.0,Month-to-month,UPI,DSL,0,1,0
+100666,7,66.51,1,19.5,Month-to-month,UPI,Fiber,0,1,0
+100667,9,41.18,1,23.0,Month-to-month,Credit card,5G,1,1,0
+100668,69,70.31,0,23.0,One year,Electronic check,Fiber,0,0,0
+100669,14,106.91,1,21.7,Month-to-month,Bank transfer,Fiber,0,0,0
+100670,25,68.61,2,28.7,Two year,Electronic check,DSL,0,1,0
+100671,25,110.86,0,14.3,Month-to-month,UPI,5G,1,1,0
+100672,12,48.56,2,20.3,Month-to-month,UPI,Fiber,0,0,0
+100673,2,112.67,2,17.5,Month-to-month,Bank transfer,DSL,0,1,1
+100674,29,61.94,3,14.6,Month-to-month,Credit card,Fiber,1,1,0
+100675,18,52.36,1,25.8,Month-to-month,Credit card,DSL,0,1,1
+100676,11,61.3,1,28.7,Month-to-month,Bank transfer,Fiber,0,0,0
+100677,26,59.47,2,17.5,Month-to-month,Bank transfer,DSL,0,1,0
+100678,24,38.06,2,23.3,Month-to-month,Electronic check,5G,1,0,0
+100679,20,53.0,3,22.7,One year,Credit card,Fiber,0,1,0
+100680,31,25.0,0,18.9,One year,Electronic check,Fiber,0,1,0
+100681,32,99.24,3,21.9,One year,UPI,5G,0,1,1
+100682,16,85.72,2,37.6,Month-to-month,UPI,Fiber,0,0,0
+100683,20,59.86,0,18.0,Month-to-month,Bank transfer,Fiber,0,1,0
+100684,33,55.42,2,16.8,Month-to-month,UPI,DSL,0,0,0
+100685,8,102.96,1,32.3,One year,Credit card,Fiber,0,1,0
+100686,15,,0,33.9,Month-to-month,UPI,DSL,0,1,0
+100687,18,92.67,1,28.5,Month-to-month,Credit card,DSL,0,1,0
+100688,15,101.55,1,22.0,Two year,Credit card,Fiber,0,1,0
+100689,72,88.55,1,23.7,Month-to-month,Bank transfer,5G,0,1,0
+100690,43,72.79,1,27.2,One year,Bank transfer,5G,0,1,0
+100691,12,87.5,0,27.7,Month-to-month,UPI,Fiber,1,0,0
+100692,12,69.62,3,20.1,Month-to-month,Electronic check,5G,0,1,0
+100693,30,97.05,1,27.5,Month-to-month,UPI,Fiber,0,0,0
+100694,13,58.33,2,28.3,One year,Electronic check,Fiber,0,1,0
+100695,15,113.67,2,29.1,One year,UPI,Fiber,0,1,0
+100696,32,,1,2.0,Two year,Electronic check,DSL,0,0,0
+100697,40,69.57,0,25.4,One year,Electronic check,Fiber,1,0,0
+100698,27,98.61,0,15.4,Month-to-month,Bank transfer,DSL,0,0,0
+100699,18,96.13,0,18.9,Month-to-month,Bank transfer,DSL,0,0,0
+100700,27,65.76,0,10.4,Two year,UPI,5G,0,1,0
+100701,8,48.84,1,7.7,Two year,Electronic check,DSL,0,1,0
+100702,18,44.95,1,23.2,One year,Electronic check,5G,0,1,0
+100703,8,57.48,1,40.8,Two year,Credit card,Fiber,1,1,0
+100704,23,67.5,3,25.7,Month-to-month,Electronic check,Fiber,0,0,0
+100705,27,69.36,2,32.1,One year,Credit card,DSL,0,1,0
+100706,12,123.74,1,15.2,Month-to-month,Bank transfer,Fiber,0,1,0
+100707,39,72.67,0,30.3,Month-to-month,UPI,5G,0,1,0
+100708,41,76.1,2,17.4,Month-to-month,Credit card,5G,0,1,0
+100709,10,60.47,1,27.7,Month-to-month,Bank transfer,5G,0,1,0
+100710,42,104.7,3,23.8,Two year,Credit card,DSL,0,1,0
+100711,41,42.38,1,17.8,Month-to-month,Electronic check,DSL,1,0,0
+100712,16,78.86,2,29.0,One year,Electronic check,Fiber,1,1,0
+100713,46,71.48,2,23.1,One year,Electronic check,Fiber,0,0,0
+100714,29,70.87,1,10.7,Two year,Electronic check,Fiber,0,1,0
+100715,72,74.36,0,29.1,One year,Electronic check,Fiber,0,1,0
+100716,10,61.07,0,21.6,Month-to-month,Bank transfer,Fiber,0,0,1
+100717,37,50.0,0,19.4,Month-to-month,Bank transfer,DSL,0,0,0
+100718,20,96.17,1,22.0,Month-to-month,Electronic check,DSL,0,1,0
+100719,19,103.2,2,2.0,One year,Electronic check,Fiber,0,0,0
+100720,51,88.07,2,22.5,Month-to-month,UPI,DSL,0,0,0
+100721,34,101.02,2,9.3,Month-to-month,UPI,5G,0,1,0
+100722,24,77.31,1,25.3,Month-to-month,Bank transfer,5G,0,0,0
+100723,23,25.0,3,17.3,Month-to-month,Bank transfer,Fiber,0,1,0
+100724,16,,7,30.5,Month-to-month,UPI,DSL,0,0,1
+100725,10,84.17,4,15.6,Month-to-month,Credit card,5G,0,0,1
+100726,12,25.0,2,37.0,Month-to-month,Electronic check,Fiber,0,1,0
+100727,8,76.48,2,27.8,Month-to-month,Credit card,Fiber,0,1,0
+100728,15,80.78,0,9.7,One year,Credit card,DSL,0,1,0
+100729,46,79.95,0,25.2,Two year,UPI,DSL,0,0,0
+100730,29,50.01,2,36.4,Month-to-month,Credit card,5G,0,1,0
+100731,32,65.63,0,27.4,Month-to-month,Bank transfer,5G,0,1,0
+100732,14,66.05,2,7.6,Two year,UPI,Fiber,0,1,0
+100733,44,78.52,3,20.3,Month-to-month,Electronic check,Fiber,0,0,0
+100734,18,67.58,0,27.4,Month-to-month,Electronic check,5G,0,1,0
+100735,21,35.39,1,30.7,Month-to-month,Credit card,DSL,0,1,0
+100736,9,124.97,0,17.8,Month-to-month,Bank transfer,Fiber,1,1,1
+100737,36,80.47,2,25.7,Month-to-month,Bank transfer,Fiber,1,1,0
+100738,3,68.31,2,26.6,Two year,Bank transfer,5G,1,1,0
+100739,14,61.76,4,30.5,Month-to-month,Electronic check,Fiber,0,0,0
+100740,12,89.87,4,33.0,One year,Electronic check,Fiber,1,1,0
+100741,43,77.97,2,23.8,One year,Bank transfer,Fiber,0,0,0
+100742,39,82.78,0,29.6,Month-to-month,Bank transfer,DSL,0,0,0
+100743,16,40.69,2,13.5,Month-to-month,Bank transfer,Fiber,1,1,0
+100744,39,28.06,2,16.9,One year,Credit card,DSL,0,1,0
+100745,20,102.46,1,23.8,Two year,Credit card,Fiber,0,1,0
+100746,11,78.07,2,11.3,Month-to-month,Bank transfer,DSL,0,1,0
+100747,26,79.51,2,10.8,Two year,Electronic check,DSL,1,1,0
+100748,18,98.8,2,19.7,One year,UPI,5G,0,1,0
+100749,15,64.85,3,28.2,Month-to-month,Electronic check,Fiber,0,0,0
+100750,6,84.31,1,18.1,Month-to-month,Credit card,Fiber,0,0,0
+100751,17,33.95,1,36.4,Two year,Bank transfer,DSL,0,1,0
+100752,22,71.25,1,29.2,One year,Electronic check,DSL,0,1,0
+100753,9,71.56,1,9.9,One year,Electronic check,5G,0,0,0
+100754,38,94.93,1,18.7,Month-to-month,Credit card,5G,0,1,0
+100755,20,63.44,1,21.2,Two year,Electronic check,DSL,0,0,0
+100756,65,118.61,0,9.4,Month-to-month,Credit card,Fiber,1,1,0
+100757,9,25.0,3,23.9,Two year,Electronic check,Fiber,1,0,0
+100758,30,96.79,1,18.2,Two year,Bank transfer,Fiber,0,1,0
+100759,32,34.67,2,14.7,Month-to-month,Bank transfer,Fiber,0,0,0
+100760,24,94.99,2,26.0,Two year,Electronic check,Fiber,0,1,0
+100761,22,90.79,1,14.9,Month-to-month,UPI,Fiber,1,0,0
+100762,62,58.93,0,26.0,Month-to-month,Credit card,DSL,0,1,0
+100763,26,64.94,2,30.1,One year,Electronic check,Fiber,0,0,0
+100764,8,67.67,3,18.8,Month-to-month,Bank transfer,Fiber,0,1,0
+100765,24,90.64,3,10.2,Month-to-month,Credit card,Fiber,0,0,0
+100766,32,61.98,2,25.0,Month-to-month,Electronic check,5G,0,0,0
+100767,7,80.87,3,40.4,Month-to-month,Electronic check,5G,0,1,0
+100768,12,75.38,3,5.4,One year,Electronic check,5G,0,0,0
+100769,30,87.87,4,20.1,One year,Bank transfer,Fiber,0,1,0
+100770,14,77.78,1,19.2,Month-to-month,Bank transfer,Fiber,0,0,0
+100771,26,83.49,3,20.6,Month-to-month,Credit card,Fiber,0,1,0
+100772,13,89.86,2,28.9,One year,Bank transfer,DSL,0,1,0
+100773,11,89.22,3,20.2,Month-to-month,UPI,DSL,0,0,0
+100774,46,88.51,1,29.3,Month-to-month,UPI,Fiber,0,1,0
+100775,45,69.95,2,25.3,Two year,UPI,Fiber,1,0,0
+100776,58,71.72,2,28.0,Month-to-month,Credit card,Fiber,0,1,0
+100777,14,57.49,2,5.1,One year,Bank transfer,DSL,0,1,0
+100778,54,87.34,2,29.4,One year,Bank transfer,Fiber,0,0,0
+100779,5,53.16,2,26.6,Month-to-month,Electronic check,Fiber,0,0,0
+100780,47,68.71,1,19.1,Month-to-month,Electronic check,5G,0,1,0
+100781,40,71.67,4,27.3,Month-to-month,Electronic check,Fiber,0,1,0
+100782,8,86.2,2,30.9,One year,Credit card,Fiber,0,1,0
+100783,25,84.45,2,17.7,One year,Bank transfer,5G,0,1,0
+100784,7,89.12,1,28.1,One year,Bank transfer,5G,0,0,0
+100785,12,78.3,2,2.0,Month-to-month,UPI,5G,0,1,1
+100786,42,44.12,1,31.0,Two year,Bank transfer,Fiber,0,0,0
+100787,51,63.2,1,20.3,Month-to-month,Electronic check,DSL,0,0,0
+100788,24,77.51,3,13.1,One year,UPI,5G,0,1,0
+100789,27,81.68,0,9.0,One year,Electronic check,DSL,0,0,0
+100790,48,57.35,1,14.8,Month-to-month,Electronic check,Fiber,0,1,0
+100791,36,60.49,1,3.9,One year,Electronic check,Fiber,0,0,0
+100792,6,71.45,0,33.8,Month-to-month,Credit card,Fiber,1,1,0
+100793,41,48.31,0,24.4,Month-to-month,Credit card,5G,0,1,0
+100794,18,69.94,2,7.6,Month-to-month,Electronic check,Fiber,1,1,0
+100795,72,97.98,2,9.7,Month-to-month,UPI,Fiber,0,1,0
+100796,13,47.0,5,27.2,Month-to-month,Credit card,DSL,0,1,0
+100797,18,44.23,1,38.9,One year,Electronic check,5G,0,0,0
+100798,8,95.91,0,27.9,One year,Credit card,5G,0,1,0
+100799,17,70.34,1,20.5,Month-to-month,Bank transfer,5G,0,1,0
+100800,24,108.07,1,36.3,Month-to-month,Electronic check,Fiber,0,1,0
+100801,21,44.62,0,21.2,Month-to-month,Electronic check,Fiber,0,1,0
+100802,12,95.26,0,18.4,Month-to-month,Credit card,Fiber,0,1,0
+100803,15,79.68,1,15.5,One year,UPI,Fiber,0,1,0
+100804,35,47.92,3,24.6,Month-to-month,UPI,5G,1,0,0
+100805,28,81.55,1,15.4,Month-to-month,Bank transfer,Fiber,0,0,0
+100806,16,,3,30.9,One year,Bank transfer,DSL,0,0,0
+100807,39,92.48,4,28.9,Month-to-month,Credit card,DSL,0,1,0
+100808,46,78.57,4,27.1,Month-to-month,Credit card,5G,0,1,0
+100809,62,66.25,2,33.3,Month-to-month,Credit card,Fiber,0,0,0
+100810,28,45.52,1,16.3,Month-to-month,UPI,5G,0,1,0
+100811,37,45.1,3,12.9,One year,UPI,Fiber,0,1,0
+100812,37,65.56,5,10.6,One year,Electronic check,DSL,0,0,0
+100813,22,93.27,1,11.9,Two year,Electronic check,5G,1,0,0
+100814,14,70.31,1,18.0,Month-to-month,Electronic check,DSL,1,1,0
+100815,15,109.74,3,38.8,Month-to-month,Bank transfer,DSL,0,0,0
+100816,37,53.45,0,46.5,Month-to-month,Credit card,Fiber,0,0,0
+100817,16,50.59,1,2.0,Month-to-month,Electronic check,DSL,0,1,1
+100818,38,75.44,1,12.7,Month-to-month,Electronic check,DSL,0,0,0
+100819,72,72.33,1,21.0,Month-to-month,Bank transfer,DSL,0,0,0
+100820,64,107.33,5,13.8,Month-to-month,Electronic check,Fiber,0,0,0
+100821,46,88.24,2,19.1,One year,Bank transfer,Fiber,0,0,0
+100822,50,75.12,0,20.8,Month-to-month,Bank transfer,DSL,0,1,0
+100823,41,57.49,2,12.7,Month-to-month,Credit card,Fiber,0,1,0
+100824,43,89.16,6,23.4,Two year,Electronic check,DSL,0,0,0
+100825,32,126.83,2,15.6,Month-to-month,Credit card,Fiber,1,1,0
+100826,19,76.48,1,10.3,One year,Credit card,Fiber,1,1,0
+100827,16,46.86,2,19.2,Month-to-month,Credit card,DSL,0,0,0
+100828,9,40.03,1,23.7,Two year,Credit card,DSL,0,1,0
+100829,59,66.6,0,20.9,Two year,Electronic check,DSL,0,1,0
+100830,13,78.89,2,12.0,Month-to-month,Electronic check,DSL,0,0,0
+100831,31,58.87,1,38.5,Two year,Electronic check,DSL,0,1,0
+100832,48,64.43,1,23.2,Two year,Bank transfer,DSL,1,1,0
+100833,55,63.86,3,26.1,Two year,Bank transfer,Fiber,0,0,0
+100834,24,102.41,2,25.4,Month-to-month,Credit card,DSL,0,0,0
+100835,22,46.62,4,17.5,One year,Credit card,DSL,0,0,0
+100836,22,63.73,1,19.3,Month-to-month,Electronic check,Fiber,0,1,0
+100837,27,97.78,1,11.6,One year,Bank transfer,Fiber,0,1,0
+100838,26,107.29,2,19.8,Month-to-month,Credit card,Fiber,1,0,0
+100839,27,61.59,2,33.9,One year,Electronic check,Fiber,0,0,0
+100840,32,70.57,1,4.9,One year,Credit card,DSL,0,1,0
+100841,27,115.18,4,23.7,Month-to-month,Electronic check,Fiber,0,1,0
+100842,31,,0,27.6,One year,Electronic check,DSL,0,0,0
+100843,5,57.18,2,13.2,Two year,Credit card,Fiber,0,1,0
+100844,67,53.73,0,28.7,Two year,Credit card,5G,0,0,0
+100845,37,77.61,0,20.5,Month-to-month,Electronic check,Fiber,0,1,0
+100846,38,55.07,4,17.1,One year,UPI,5G,0,1,0
+100847,28,65.82,1,17.5,Two year,Bank transfer,Fiber,0,1,0
+100848,14,82.6,3,20.6,Month-to-month,Electronic check,DSL,0,0,0
+100849,19,39.06,1,14.6,One year,Bank transfer,Fiber,0,1,0
+100850,20,80.54,3,19.9,Month-to-month,Credit card,Fiber,0,0,0
+100851,48,85.22,1,18.9,Two year,UPI,DSL,0,1,0
+100852,33,70.02,0,25.8,Month-to-month,Electronic check,DSL,0,1,0
+100853,16,93.11,3,18.6,One year,Bank transfer,Fiber,0,1,0
+100854,12,61.14,2,18.4,One year,Bank transfer,Fiber,0,1,0
+100855,72,68.61,3,9.6,One year,Bank transfer,Fiber,0,1,0
+100856,61,35.75,0,30.0,Month-to-month,Electronic check,Fiber,0,0,0
+100857,17,25.0,5,30.8,Two year,UPI,Fiber,0,1,0
+100858,16,50.67,2,38.6,Month-to-month,Credit card,Fiber,0,1,0
+100859,5,72.64,2,24.8,Month-to-month,Credit card,DSL,0,1,0
+100860,55,74.12,0,23.4,One year,Electronic check,DSL,0,1,0
+100861,34,67.53,1,18.4,Month-to-month,UPI,DSL,0,1,0
+100862,69,67.6,1,20.5,One year,Credit card,DSL,0,1,0
+100863,26,71.38,2,26.0,Month-to-month,Electronic check,Fiber,0,1,0
+100864,2,74.74,1,11.7,Month-to-month,Electronic check,Fiber,0,1,0
+100865,33,57.11,2,32.5,Month-to-month,UPI,DSL,0,1,0
+100866,2,39.09,3,2.0,One year,UPI,Fiber,0,1,0
+100867,72,87.26,1,31.4,One year,Electronic check,DSL,0,1,0
+100868,40,44.58,3,17.5,Month-to-month,UPI,Fiber,1,1,0
+100869,28,105.92,1,32.0,One year,Bank transfer,DSL,0,0,0
+100870,53,50.37,4,22.4,Month-to-month,Electronic check,Fiber,0,0,0
+100871,53,65.67,2,21.6,Month-to-month,Credit card,5G,0,1,0
+100872,28,93.64,0,28.3,Two year,Credit card,5G,0,0,0
+100873,16,63.15,1,21.6,Two year,Credit card,Fiber,0,0,0
+100874,9,47.36,3,30.3,Month-to-month,Credit card,5G,0,0,0
+100875,24,69.08,3,33.7,One year,UPI,Fiber,0,1,0
+100876,14,92.95,1,31.0,Month-to-month,Electronic check,DSL,0,0,0
+100877,20,72.81,1,13.6,Month-to-month,Credit card,DSL,0,1,0
+100878,51,69.21,1,19.7,Month-to-month,UPI,Fiber,0,0,0
+100879,16,70.52,2,8.8,Month-to-month,Bank transfer,DSL,0,0,0
+100880,17,100.46,2,29.6,Month-to-month,UPI,DSL,0,1,0
+100881,12,45.35,0,14.6,Month-to-month,Credit card,Fiber,0,1,0
+100882,57,79.24,3,28.5,Two year,Credit card,DSL,0,1,0
+100883,11,125.24,1,14.2,One year,Credit card,5G,0,1,0
+100884,10,73.25,4,10.6,One year,Bank transfer,Fiber,0,0,0
+100885,17,91.07,1,9.0,One year,UPI,DSL,0,1,0
+100886,17,57.63,0,7.5,Month-to-month,Electronic check,Fiber,0,0,0
+100887,5,61.5,1,44.5,Two year,Electronic check,Fiber,0,1,0
+100888,10,74.8,1,27.5,Month-to-month,UPI,DSL,1,1,0
+100889,51,71.29,2,18.6,One year,Electronic check,Fiber,1,1,0
+100890,7,51.99,2,27.9,Two year,Credit card,Fiber,0,1,0
+100891,72,90.86,2,32.0,Month-to-month,Electronic check,Fiber,0,1,0
+100892,34,62.93,2,24.7,Two year,Electronic check,Fiber,0,0,0
+100893,12,88.86,1,28.0,Month-to-month,UPI,Fiber,0,1,0
+100894,21,71.26,2,20.8,Month-to-month,Credit card,Fiber,0,1,1
+100895,27,103.37,3,11.2,One year,Electronic check,Fiber,0,0,0
+100896,24,69.73,1,19.9,Two year,Credit card,5G,0,1,0
+100897,23,54.69,0,23.2,One year,UPI,Fiber,0,1,0
+100898,20,98.08,1,22.6,One year,UPI,Fiber,0,1,0
+100899,10,42.91,5,6.6,Two year,Electronic check,Fiber,0,1,0
+100900,18,65.14,1,19.8,Month-to-month,Credit card,Fiber,0,1,0
+100901,17,66.69,1,37.9,Month-to-month,Credit card,Fiber,0,0,0
+100902,13,95.89,5,12.7,Month-to-month,Bank transfer,Fiber,0,0,1
+100903,7,83.21,3,18.4,One year,Electronic check,DSL,0,1,0
+100904,13,77.06,2,53.3,Two year,Electronic check,Fiber,0,1,0
+100905,23,108.58,4,31.7,Two year,Credit card,DSL,0,1,0
+100906,10,75.66,2,17.2,Month-to-month,Bank transfer,DSL,0,0,0
+100907,23,,0,21.1,Two year,Electronic check,Fiber,0,1,0
+100908,17,47.93,1,26.0,Two year,Credit card,Fiber,0,1,0
+100909,5,41.58,0,7.1,Two year,Bank transfer,5G,1,1,0
+100910,23,71.94,0,8.1,Month-to-month,Credit card,DSL,0,0,0
+100911,29,70.85,2,36.4,Month-to-month,Electronic check,5G,0,0,0
+100912,20,80.08,3,17.3,Month-to-month,Bank transfer,Fiber,0,0,1
+100913,11,77.46,1,15.8,Month-to-month,Credit card,Fiber,0,1,0
+100914,33,76.4,2,15.0,Month-to-month,Credit card,DSL,1,1,0
+100915,26,109.55,6,12.9,Month-to-month,Bank transfer,DSL,0,0,0
+100916,27,79.57,2,31.9,Month-to-month,UPI,Fiber,0,0,0
+100917,18,54.05,2,28.9,One year,Electronic check,DSL,0,1,0
+100918,72,61.91,1,12.2,Month-to-month,Electronic check,DSL,0,0,0
+100919,43,61.69,1,15.2,Month-to-month,Electronic check,DSL,1,1,0
+100920,20,70.69,1,11.8,Month-to-month,Credit card,DSL,0,1,0
+100921,25,40.26,1,15.6,Month-to-month,UPI,5G,1,0,0
+100922,11,95.8,1,20.8,Month-to-month,Bank transfer,Fiber,0,1,0
+100923,61,44.94,2,23.5,Month-to-month,Credit card,5G,0,0,0
+100924,13,83.02,2,38.4,Two year,UPI,DSL,0,1,0
+100925,25,91.31,1,41.6,Two year,Bank transfer,DSL,0,1,0
+100926,23,87.58,0,12.0,Month-to-month,Electronic check,DSL,0,0,0
+100927,21,76.45,0,22.3,One year,Electronic check,5G,1,0,0
+100928,30,73.66,1,13.2,One year,Electronic check,Fiber,0,1,0
+100929,13,108.38,2,15.0,One year,Bank transfer,Fiber,0,1,0
+100930,18,89.34,1,25.1,One year,UPI,Fiber,0,1,1
+100931,51,43.59,1,33.8,Month-to-month,Credit card,Fiber,0,1,0
+100932,11,85.95,2,30.2,Two year,Credit card,5G,0,1,0
+100933,21,48.71,1,18.5,Two year,Electronic check,DSL,1,0,0
+100934,7,90.36,2,10.8,One year,Credit card,DSL,0,1,0
+100935,72,89.92,1,11.0,Month-to-month,UPI,Fiber,0,0,0
+100936,16,129.6,1,28.2,One year,UPI,Fiber,0,0,0
+100937,16,76.36,2,18.9,One year,Bank transfer,Fiber,0,0,0
+100938,10,68.71,3,8.2,Month-to-month,Credit card,DSL,0,1,0
+100939,27,66.81,1,28.3,Two year,Bank transfer,Fiber,0,1,0
+100940,17,86.51,0,18.5,Month-to-month,Bank transfer,Fiber,0,1,0
+100941,26,84.62,0,8.1,One year,Credit card,Fiber,0,1,0
+100942,32,83.75,2,36.9,Month-to-month,Electronic check,Fiber,0,1,0
+100943,28,100.11,2,21.5,One year,Electronic check,Fiber,0,1,0
+100944,22,84.82,5,29.8,Month-to-month,Electronic check,Fiber,0,0,0
+100945,38,40.86,0,29.3,Month-to-month,Credit card,DSL,0,1,0
+100946,40,63.2,1,39.8,One year,Credit card,5G,0,0,0
+100947,47,75.96,1,23.2,Month-to-month,Credit card,Fiber,0,0,0
+100948,18,83.62,0,22.6,Month-to-month,Electronic check,DSL,1,0,0
+100949,26,47.79,1,3.8,Month-to-month,Credit card,Fiber,0,0,0
+100950,8,98.22,1,2.0,Month-to-month,Electronic check,5G,0,1,0
+100951,25,65.16,1,23.5,One year,Electronic check,Fiber,0,0,0
+100952,44,93.81,2,26.0,Two year,Electronic check,Fiber,0,0,0
+100953,41,92.28,3,21.2,Month-to-month,Electronic check,DSL,0,0,0
+100954,31,59.27,2,23.2,Month-to-month,Credit card,DSL,0,1,0
+100955,14,88.2,2,25.9,One year,UPI,Fiber,0,0,0
+100956,13,99.5,3,11.2,One year,Bank transfer,Fiber,0,1,0
+100957,30,76.76,3,25.5,One year,UPI,DSL,0,1,0
+100958,67,87.98,2,33.3,Two year,Bank transfer,Fiber,0,1,0
+100959,6,47.91,0,20.6,Two year,Electronic check,DSL,0,0,0
+100960,48,47.53,3,36.0,One year,Electronic check,DSL,0,0,0
+100961,31,82.91,2,24.2,One year,Credit card,Fiber,0,1,0
+100962,8,33.08,1,26.4,Two year,UPI,DSL,0,1,0
+100963,37,59.8,1,22.9,One year,UPI,DSL,1,0,0
+100964,40,71.37,4,2.0,Two year,UPI,DSL,0,1,0
+100965,2,88.21,0,26.4,Two year,Bank transfer,Fiber,0,0,0
+100966,62,103.84,0,15.1,Month-to-month,UPI,5G,0,1,0
+100967,13,95.11,2,29.8,Month-to-month,Bank transfer,DSL,0,0,1
+100968,47,45.31,4,25.2,Month-to-month,Electronic check,5G,0,1,0
+100969,9,66.09,4,21.9,Month-to-month,Bank transfer,DSL,0,0,0
+100970,16,82.87,1,19.6,Month-to-month,Electronic check,DSL,0,0,0
+100971,39,64.53,2,21.3,Two year,Electronic check,DSL,0,0,1
+100972,13,82.87,1,36.5,Month-to-month,UPI,5G,0,1,0
+100973,20,51.3,3,24.6,Two year,UPI,5G,1,1,0
+100974,17,52.3,0,25.3,Month-to-month,Electronic check,DSL,0,1,0
+100975,18,132.23,2,25.0,Two year,Credit card,Fiber,0,0,0
+100976,13,63.49,1,22.1,One year,Bank transfer,DSL,0,0,0
+100977,16,71.5,0,12.3,Month-to-month,Bank transfer,Fiber,0,1,0
+100978,27,97.99,3,13.2,Month-to-month,Bank transfer,DSL,0,1,0
+100979,28,73.46,3,40.1,One year,Bank transfer,Fiber,0,1,0
+100980,23,103.62,0,14.3,One year,Credit card,5G,0,1,0
+100981,45,130.32,1,13.4,One year,Credit card,DSL,0,0,0
+100982,39,80.1,0,26.5,Month-to-month,Electronic check,5G,0,1,0
+100983,37,141.07,1,13.9,Month-to-month,UPI,DSL,0,1,0
+100984,20,64.89,5,24.3,One year,Bank transfer,DSL,1,0,0
+100985,33,25.0,1,28.2,Two year,Bank transfer,DSL,0,1,0
+100986,19,81.82,2,31.6,One year,Credit card,Fiber,0,0,0
+100987,4,86.84,0,25.3,One year,Electronic check,DSL,0,0,0
+100988,33,46.31,4,37.1,Month-to-month,Electronic check,DSL,0,1,0
+100989,34,44.44,4,19.3,Month-to-month,Bank transfer,5G,1,1,0
+100990,26,54.43,0,26.5,Month-to-month,UPI,DSL,0,0,0
+100991,38,36.95,2,12.5,Month-to-month,Electronic check,Fiber,0,1,0
+100992,4,73.64,5,15.4,Month-to-month,Electronic check,Fiber,0,1,0
+100993,10,58.37,1,35.6,One year,UPI,Fiber,0,0,0
+100994,46,111.6,2,40.1,Month-to-month,UPI,DSL,0,1,0
+100995,18,98.01,2,7.1,Month-to-month,Electronic check,Fiber,0,0,0
+100996,27,68.4,2,35.1,Month-to-month,Bank transfer,Fiber,0,1,0
+100997,50,69.13,1,19.0,Month-to-month,UPI,5G,0,1,0
+100998,17,104.76,2,19.8,Month-to-month,Credit card,DSL,1,0,1
+100999,20,91.24,1,29.1,One year,Bank transfer,5G,0,0,0
+101000,20,40.75,2,29.3,Month-to-month,Electronic check,5G,0,1,0
+101001,39,77.75,0,21.2,Month-to-month,Credit card,Fiber,0,1,0
+101002,10,83.24,1,2.0,Month-to-month,UPI,5G,0,0,0
+101003,22,78.36,0,23.8,Month-to-month,Credit card,DSL,1,1,0
+101004,23,94.52,3,17.5,Month-to-month,Bank transfer,Fiber,0,0,0
+101005,72,63.73,4,17.1,One year,UPI,Fiber,0,1,0
+101006,28,34.53,2,24.5,One year,Electronic check,Fiber,0,1,0
+101007,29,96.9,2,35.4,One year,Electronic check,DSL,0,1,0
+101008,18,50.78,1,34.7,Month-to-month,Electronic check,Fiber,0,1,0
+101009,29,63.52,4,16.6,Month-to-month,Electronic check,Fiber,0,0,0
+101010,11,79.32,4,23.2,Month-to-month,Credit card,5G,0,1,0
+101011,71,,2,14.4,Month-to-month,Electronic check,DSL,0,1,0
+101012,28,69.92,4,22.1,Month-to-month,Electronic check,5G,1,1,0
+101013,36,49.67,5,21.5,Month-to-month,Credit card,Fiber,0,1,1
+101014,21,58.05,2,33.6,One year,Bank transfer,5G,0,0,0
+101015,12,50.55,5,30.1,One year,UPI,Fiber,0,1,0
+101016,50,46.35,0,21.8,Month-to-month,Electronic check,DSL,0,1,0
+101017,12,90.85,1,17.6,Month-to-month,Credit card,DSL,0,1,0
+101018,32,87.32,1,12.6,One year,Credit card,5G,1,1,0
+101019,27,74.99,3,3.4,Month-to-month,Credit card,DSL,0,1,0
+101020,41,59.57,4,17.9,Month-to-month,Bank transfer,Fiber,0,0,0
+101021,36,45.42,2,27.1,Month-to-month,Electronic check,5G,0,1,0
+101022,20,25.0,2,12.4,Month-to-month,Electronic check,DSL,0,1,0
+101023,13,59.26,1,18.2,One year,Credit card,Fiber,0,1,0
+101024,52,64.57,0,34.6,Month-to-month,Electronic check,Fiber,0,1,0
+101025,14,78.76,2,17.4,Month-to-month,Bank transfer,Fiber,0,0,0
+101026,65,92.58,0,22.1,Month-to-month,Credit card,Fiber,0,1,0
+101027,10,70.75,0,19.2,One year,Credit card,DSL,0,0,1
+101028,18,73.59,2,23.7,Month-to-month,UPI,Fiber,0,1,0
+101029,55,58.04,3,38.4,Month-to-month,Electronic check,Fiber,0,1,0
+101030,15,68.41,1,17.2,One year,Electronic check,Fiber,0,1,0
+101031,22,83.42,2,31.5,Two year,UPI,Fiber,0,1,0
+101032,72,51.32,2,2.1,Month-to-month,Credit card,Fiber,0,1,0
+101033,8,70.58,1,19.5,Month-to-month,Electronic check,Fiber,0,0,0
+101034,23,73.23,1,19.7,Month-to-month,Bank transfer,DSL,0,0,0
+101035,6,51.1,5,25.0,Month-to-month,Bank transfer,DSL,0,1,0
+101036,50,47.4,1,23.2,Month-to-month,UPI,5G,0,1,0
+101037,51,101.85,1,31.2,One year,UPI,Fiber,0,1,0
+101038,72,89.5,2,27.9,Month-to-month,UPI,Fiber,0,1,0
+101039,10,64.32,2,25.3,One year,Bank transfer,Fiber,0,0,0
+101040,34,71.0,0,18.9,Month-to-month,Electronic check,DSL,0,1,0
+101041,28,89.21,3,26.7,Month-to-month,Electronic check,DSL,0,1,0
+101042,53,49.87,1,29.1,Two year,UPI,Fiber,0,0,0
+101043,28,71.17,1,25.6,Month-to-month,Credit card,DSL,0,1,0
+101044,26,90.51,1,24.5,Two year,Credit card,Fiber,0,0,0
+101045,20,53.81,2,26.8,Month-to-month,Bank transfer,Fiber,0,0,0
+101046,23,76.85,0,22.4,Two year,Electronic check,DSL,0,0,0
+101047,18,29.11,1,20.8,Month-to-month,UPI,5G,0,0,0
+101048,25,73.5,1,13.5,Month-to-month,Bank transfer,Fiber,1,1,0
+101049,4,69.17,0,10.0,Month-to-month,Bank transfer,5G,0,1,1
+101050,70,113.78,3,13.2,One year,Credit card,Fiber,0,1,0
+101051,17,76.97,2,35.4,One year,Electronic check,DSL,0,1,0
+101052,10,61.81,2,18.5,One year,Credit card,DSL,0,1,0
+101053,18,,2,14.4,Two year,Credit card,DSL,0,0,0
+101054,49,76.93,1,24.6,Month-to-month,Credit card,DSL,0,1,0
+101055,38,50.96,0,33.6,Month-to-month,Credit card,Fiber,0,1,0
+101056,24,72.36,1,20.3,One year,Bank transfer,Fiber,0,1,0
+101057,30,114.79,2,23.3,One year,Electronic check,Fiber,0,1,1
+101058,24,81.68,3,18.3,Month-to-month,Bank transfer,5G,0,0,0
+101059,67,39.16,8,14.8,Month-to-month,Credit card,DSL,0,1,0
+101060,27,66.91,0,30.9,Two year,UPI,DSL,0,0,0
+101061,28,80.76,2,22.4,Month-to-month,Bank transfer,DSL,1,0,0
+101062,12,70.21,6,19.0,One year,Electronic check,Fiber,1,0,0
+101063,20,103.91,2,29.7,Month-to-month,Bank transfer,Fiber,0,0,1
+101064,20,63.17,2,27.5,Two year,Credit card,DSL,0,1,0
+101065,17,108.55,3,41.8,One year,Electronic check,Fiber,0,0,1
+101066,48,58.95,0,16.0,Month-to-month,Credit card,Fiber,0,0,0
+101067,17,72.66,0,11.1,One year,Electronic check,DSL,0,0,0
+101068,13,98.65,3,24.0,Two year,Credit card,Fiber,1,1,0
+101069,25,37.52,1,13.1,Month-to-month,Credit card,DSL,0,1,0
+101070,5,53.08,2,39.5,Month-to-month,UPI,Fiber,1,1,1
+101071,17,85.19,2,27.0,Month-to-month,Credit card,Fiber,0,1,0
+101072,7,105.41,2,28.5,Month-to-month,Credit card,Fiber,1,0,0
+101073,38,57.9,2,26.6,Two year,Bank transfer,Fiber,0,1,0
+101074,17,84.95,2,19.7,Month-to-month,Bank transfer,Fiber,0,1,0
+101075,44,47.17,3,22.9,Two year,Electronic check,Fiber,0,1,0
+101076,13,84.43,0,16.9,Month-to-month,Electronic check,DSL,0,0,1
+101077,10,107.16,2,31.3,Month-to-month,Bank transfer,DSL,0,1,0
+101078,45,65.99,1,15.0,Month-to-month,Bank transfer,Fiber,1,0,0
+101079,34,62.32,1,2.8,One year,UPI,Fiber,0,1,0
+101080,58,101.04,2,26.0,Month-to-month,Credit card,5G,0,0,0
+101081,11,87.81,1,27.6,Month-to-month,Credit card,Fiber,0,1,0
+101082,10,94.37,2,2.0,Month-to-month,Electronic check,Fiber,0,0,0
+101083,15,98.41,2,20.0,Month-to-month,Credit card,DSL,1,0,0
+101084,70,70.34,1,4.9,Month-to-month,UPI,Fiber,0,1,0
+101085,31,94.44,2,21.5,Month-to-month,Bank transfer,Fiber,0,1,0
+101086,63,112.29,1,15.5,Month-to-month,Credit card,Fiber,0,1,0
+101087,40,64.41,0,26.5,Month-to-month,Credit card,Fiber,0,1,0
+101088,22,92.12,0,26.1,Two year,Bank transfer,Fiber,0,0,0
+101089,8,63.33,1,31.5,Month-to-month,Bank transfer,Fiber,1,1,0
+101090,25,104.41,2,19.6,One year,Electronic check,Fiber,0,1,0
+101091,21,84.95,1,23.3,Month-to-month,Electronic check,Fiber,0,1,0
+101092,72,44.26,0,14.8,Two year,Electronic check,DSL,0,0,0
+101093,27,76.75,1,23.8,One year,Electronic check,Fiber,0,0,0
+101094,31,61.04,4,19.5,Month-to-month,Credit card,DSL,0,0,0
+101095,62,90.78,3,26.5,Month-to-month,Credit card,Fiber,0,1,0
+101096,9,68.85,1,25.9,Month-to-month,Electronic check,5G,0,0,0
+101097,20,70.03,2,18.8,Two year,UPI,DSL,0,0,0
+101098,26,86.85,1,15.9,Month-to-month,Bank transfer,Fiber,0,1,0
+101099,17,62.36,4,30.5,Month-to-month,Credit card,DSL,0,0,0
+101100,17,25.0,2,17.9,Month-to-month,Electronic check,Fiber,1,1,1
+101101,34,60.59,1,18.2,One year,Bank transfer,Fiber,0,0,0
+101102,20,59.41,1,12.3,One year,Credit card,5G,0,0,1
+101103,6,105.52,0,12.5,Two year,Credit card,DSL,0,0,0
+101104,8,36.62,1,25.2,Month-to-month,UPI,DSL,1,1,0
+101105,72,111.17,2,22.2,Two year,Electronic check,DSL,0,1,0
+101106,53,75.51,2,17.1,Month-to-month,Credit card,5G,0,1,0
+101107,24,81.33,3,21.9,Month-to-month,Electronic check,Fiber,0,0,0
+101108,30,68.63,2,29.7,Month-to-month,Credit card,Fiber,0,0,0
+101109,39,68.31,2,24.1,Two year,UPI,Fiber,0,1,0
+101110,36,59.65,2,31.0,One year,Electronic check,Fiber,0,1,0
+101111,9,116.42,1,32.3,Month-to-month,Credit card,Fiber,0,0,1
+101112,34,56.91,1,12.8,Month-to-month,Credit card,5G,0,0,0
+101113,31,82.3,2,19.0,Month-to-month,Electronic check,5G,0,1,0
+101114,4,76.49,4,22.8,Two year,Electronic check,5G,0,0,0
+101115,28,72.96,2,38.8,Month-to-month,Electronic check,Fiber,0,1,1
+101116,28,94.01,3,25.5,Month-to-month,Credit card,Fiber,0,1,1
+101117,14,84.15,1,26.1,Month-to-month,Electronic check,Fiber,0,0,0
+101118,28,33.75,3,8.9,One year,UPI,DSL,0,1,0
+101119,31,35.58,1,12.6,Month-to-month,Credit card,Fiber,0,1,1
+101120,16,60.93,1,20.3,One year,UPI,DSL,0,1,0
+101121,33,102.91,1,5.4,Two year,UPI,DSL,0,0,0
+101122,32,114.0,3,32.9,Month-to-month,Bank transfer,Fiber,0,1,0
+101123,17,64.28,3,32.2,One year,Electronic check,5G,0,0,0
+101124,8,73.56,0,13.5,Month-to-month,Electronic check,DSL,0,0,0
+101125,21,47.46,1,18.6,Two year,Credit card,Fiber,0,1,0
+101126,17,79.52,0,24.4,Month-to-month,Electronic check,Fiber,0,0,0
+101127,47,78.93,2,20.3,One year,Credit card,DSL,1,0,0
+101128,26,58.41,3,15.1,Month-to-month,Electronic check,Fiber,1,0,0
+101129,32,69.76,1,18.4,Two year,Credit card,DSL,1,0,0
+101130,26,82.9,5,25.2,Month-to-month,Electronic check,Fiber,0,1,0
+101131,54,109.85,2,26.6,Month-to-month,UPI,DSL,1,0,0
+101132,20,114.58,2,18.0,Two year,Bank transfer,DSL,0,1,1
+101133,21,129.31,5,7.2,One year,Credit card,DSL,0,1,0
+101134,56,58.61,6,22.4,One year,Credit card,5G,1,1,0
+101135,15,25.0,2,28.1,Month-to-month,UPI,5G,0,1,0
+101136,58,74.37,4,43.5,Two year,UPI,Fiber,0,1,0
+101137,24,47.17,1,28.6,One year,Electronic check,DSL,0,0,0
+101138,31,83.48,3,25.7,Month-to-month,Bank transfer,Fiber,0,1,0
+101139,19,64.65,1,19.9,Month-to-month,Bank transfer,DSL,0,1,0
+101140,42,55.98,1,15.5,Month-to-month,UPI,DSL,0,0,0
+101141,31,71.06,2,12.9,Month-to-month,Credit card,Fiber,0,0,0
+101142,24,94.85,1,10.4,Month-to-month,Electronic check,5G,0,0,1
+101143,8,80.66,4,26.5,One year,Credit card,Fiber,0,1,0
+101144,15,72.01,1,28.7,One year,Electronic check,Fiber,0,1,0
+101145,26,53.96,4,19.6,Month-to-month,Electronic check,Fiber,0,0,0
+101146,53,47.49,1,19.9,One year,Bank transfer,DSL,0,1,0
+101147,16,80.4,0,25.0,Month-to-month,Electronic check,DSL,0,1,0
+101148,37,63.31,5,15.4,Month-to-month,Bank transfer,Fiber,0,0,0
+101149,8,50.65,0,15.5,One year,Electronic check,Fiber,0,1,0
+101150,38,84.25,2,25.8,Month-to-month,Bank transfer,Fiber,0,1,0
+101151,9,72.14,2,31.0,Month-to-month,Electronic check,DSL,0,1,0
+101152,41,65.99,2,12.8,Two year,Credit card,DSL,0,1,0
+101153,15,107.01,3,28.3,Two year,Bank transfer,DSL,0,1,0
+101154,28,57.87,1,26.6,One year,Electronic check,Fiber,1,1,0
+101155,26,93.54,0,14.7,Month-to-month,UPI,Fiber,0,1,0
+101156,10,75.41,1,7.0,Two year,Bank transfer,Fiber,0,1,0
+101157,48,82.11,0,37.8,Month-to-month,Credit card,5G,0,1,0
+101158,43,74.66,1,17.7,One year,Electronic check,Fiber,0,1,0
+101159,14,93.77,0,16.9,Month-to-month,Electronic check,Fiber,0,0,0
+101160,47,106.1,1,27.7,Month-to-month,UPI,Fiber,0,1,0
+101161,24,43.45,4,42.4,One year,Bank transfer,5G,0,1,0
+101162,7,98.99,4,24.4,Month-to-month,UPI,5G,0,1,0
+101163,59,66.32,3,34.3,One year,Bank transfer,Fiber,0,1,0
+101164,33,80.32,0,14.2,Month-to-month,Electronic check,DSL,1,1,0
+101165,41,78.88,1,39.7,Month-to-month,Electronic check,DSL,0,1,0
+101166,16,60.9,2,5.0,Two year,Credit card,Fiber,0,1,0
+101167,9,59.96,2,21.6,Month-to-month,Bank transfer,DSL,0,1,0
+101168,39,,1,19.7,One year,Credit card,DSL,0,1,0
+101169,49,59.09,0,17.8,Month-to-month,UPI,Fiber,0,1,0
+101170,5,87.75,1,23.9,Month-to-month,UPI,Fiber,0,0,0
+101171,69,39.41,2,42.5,One year,Bank transfer,Fiber,0,1,0
+101172,16,68.42,1,21.4,One year,Credit card,Fiber,0,0,0
+101173,57,102.62,3,23.9,Month-to-month,UPI,Fiber,0,1,0
+101174,19,68.58,3,13.5,Month-to-month,Credit card,5G,0,0,0
+101175,29,51.74,3,27.0,One year,Electronic check,5G,0,1,0
+101176,20,70.6,0,23.0,One year,Bank transfer,Fiber,0,1,0
+101177,7,50.22,2,18.5,Month-to-month,Bank transfer,DSL,0,1,0
+101178,8,89.49,1,4.5,Month-to-month,Credit card,Fiber,1,1,0
+101179,12,74.84,4,26.1,Month-to-month,Electronic check,Fiber,0,0,0
+101180,19,66.92,2,27.1,One year,Bank transfer,DSL,0,1,0
+101181,6,87.73,3,8.0,Month-to-month,UPI,DSL,0,1,0
+101182,17,70.48,7,19.5,Month-to-month,UPI,Fiber,0,1,0
+101183,32,56.77,1,2.7,Two year,Credit card,DSL,0,1,0
+101184,65,64.97,1,34.0,Two year,Electronic check,DSL,0,0,0
+101185,28,55.11,2,28.4,Two year,Credit card,5G,0,0,0
+101186,14,48.09,0,16.0,Month-to-month,Bank transfer,Fiber,0,1,0
+101187,17,85.56,0,7.7,Two year,UPI,Fiber,0,1,0
+101188,9,57.6,2,29.6,Month-to-month,Credit card,Fiber,0,1,0
+101189,21,58.6,2,23.3,Month-to-month,UPI,Fiber,0,0,0
+101190,20,91.78,1,32.3,One year,UPI,DSL,0,0,0
+101191,27,42.71,3,22.5,Month-to-month,UPI,DSL,0,0,0
+101192,47,53.97,2,19.8,Month-to-month,Credit card,DSL,0,0,0
+101193,40,59.89,1,22.0,One year,UPI,DSL,0,0,0
+101194,11,106.69,2,21.3,One year,UPI,Fiber,0,1,0
+101195,5,68.1,0,14.7,One year,Electronic check,5G,0,1,0
+101196,7,75.81,5,15.7,Month-to-month,Electronic check,5G,1,0,1
+101197,14,73.35,0,22.8,Month-to-month,UPI,Fiber,0,1,0
+101198,35,44.84,3,27.1,One year,Bank transfer,5G,0,0,0
+101199,13,80.23,1,24.4,Month-to-month,Bank transfer,Fiber,0,1,0
+101200,34,90.69,1,25.5,One year,Electronic check,Fiber,0,1,0
+101201,19,109.42,1,8.1,Month-to-month,Bank transfer,Fiber,0,0,0
+101202,70,67.7,1,12.8,One year,Electronic check,DSL,0,1,0
+101203,42,85.17,3,21.7,Two year,Electronic check,5G,0,1,0
+101204,7,92.28,1,18.2,Month-to-month,Credit card,Fiber,0,1,0
+101205,35,73.74,2,17.2,One year,Bank transfer,Fiber,0,0,0
+101206,12,118.51,1,33.4,Month-to-month,Credit card,DSL,1,1,0
+101207,3,115.17,2,20.6,Month-to-month,Credit card,DSL,0,1,0
+101208,42,104.46,2,30.2,One year,Credit card,DSL,0,1,0
+101209,18,44.72,2,24.0,Month-to-month,Credit card,DSL,0,0,0
+101210,64,66.98,2,21.9,Month-to-month,Credit card,DSL,1,1,0
+101211,50,89.51,2,34.7,Month-to-month,Bank transfer,5G,0,0,0
+101212,18,74.46,1,29.0,Month-to-month,Electronic check,Fiber,0,0,0
+101213,6,35.24,1,24.0,Month-to-month,Bank transfer,Fiber,0,0,0
+101214,8,77.67,1,21.9,Month-to-month,UPI,DSL,1,0,0
+101215,35,117.11,0,38.3,Month-to-month,Credit card,5G,0,1,0
+101216,29,108.86,3,11.8,Two year,UPI,Fiber,0,1,0
+101217,11,91.51,3,26.3,One year,Credit card,Fiber,0,0,0
+101218,14,74.63,4,23.9,Month-to-month,Bank transfer,Fiber,1,0,0
+101219,72,72.95,2,19.5,Two year,Bank transfer,DSL,0,0,0
+101220,25,79.34,1,38.2,Two year,Credit card,Fiber,0,1,0
+101221,20,62.04,1,24.9,Month-to-month,Electronic check,Fiber,0,0,0
+101222,4,62.53,2,22.2,Month-to-month,Credit card,Fiber,0,1,0
+101223,7,76.85,1,22.1,Month-to-month,Electronic check,Fiber,0,1,0
+101224,45,118.14,1,25.3,Month-to-month,Credit card,5G,1,1,1
+101225,62,85.68,1,20.8,One year,Credit card,5G,0,0,0
+101226,23,78.65,2,17.3,Month-to-month,UPI,Fiber,1,1,0
+101227,14,97.04,1,26.8,Month-to-month,Credit card,DSL,0,1,0
+101228,16,109.97,2,28.4,Month-to-month,Bank transfer,Fiber,1,0,0
+101229,15,98.92,1,16.6,Month-to-month,Credit card,Fiber,0,1,0
+101230,23,50.35,0,17.3,Month-to-month,Bank transfer,DSL,0,0,0
+101231,27,111.15,0,22.3,One year,Credit card,5G,0,0,0
+101232,72,92.48,1,17.1,Month-to-month,Electronic check,Fiber,0,1,0
+101233,22,45.67,1,29.8,Two year,UPI,5G,0,0,0
+101234,11,65.77,2,9.1,Month-to-month,Credit card,Fiber,0,1,0
+101235,18,25.28,1,11.7,Two year,Electronic check,DSL,1,1,0
+101236,44,55.4,1,35.5,Month-to-month,Electronic check,Fiber,1,0,0
+101237,16,71.19,1,24.7,Two year,Electronic check,DSL,0,0,0
+101238,4,79.54,1,16.7,Month-to-month,Bank transfer,Fiber,0,0,0
+101239,18,64.44,1,15.0,Month-to-month,UPI,Fiber,0,1,0
+101240,13,77.29,0,26.9,Two year,Electronic check,Fiber,0,1,0
+101241,32,,2,26.3,One year,Electronic check,DSL,0,1,0
+101242,33,82.15,0,37.1,One year,Electronic check,DSL,0,1,0
+101243,69,72.6,2,19.9,Two year,Credit card,5G,0,1,0
+101244,16,85.98,3,16.9,Month-to-month,UPI,Fiber,0,1,0
+101245,23,93.48,1,17.8,Month-to-month,Electronic check,Fiber,0,0,0
+101246,47,89.13,2,20.7,One year,Bank transfer,DSL,0,1,0
+101247,15,67.43,1,11.9,Month-to-month,Electronic check,Fiber,0,1,0
+101248,14,34.53,1,34.9,Month-to-month,Bank transfer,5G,0,0,0
+101249,8,83.67,0,24.5,Month-to-month,UPI,5G,0,0,0
+101250,46,41.28,1,6.1,Month-to-month,Bank transfer,5G,1,1,0
+101251,32,,1,34.2,Month-to-month,Credit card,DSL,1,0,0
+101252,16,,4,18.6,Month-to-month,Bank transfer,DSL,0,1,1
+101253,9,94.8,2,14.3,Month-to-month,Credit card,DSL,0,0,1
+101254,45,99.91,2,18.5,Month-to-month,UPI,Fiber,0,1,1
+101255,54,96.59,0,16.3,Month-to-month,Credit card,Fiber,0,1,0
+101256,13,53.63,0,27.9,One year,UPI,5G,0,0,1
+101257,14,44.09,2,20.6,Month-to-month,Bank transfer,DSL,0,1,0
+101258,52,25.0,2,17.6,Month-to-month,Electronic check,DSL,0,0,0
+101259,11,74.79,1,48.3,Two year,Electronic check,Fiber,0,1,0
+101260,16,82.66,1,22.8,Month-to-month,Bank transfer,Fiber,0,0,0
+101261,8,80.07,2,25.8,Two year,Credit card,Fiber,0,0,0
+101262,22,71.07,1,14.8,Month-to-month,Bank transfer,DSL,0,0,0
+101263,51,94.04,1,23.6,One year,Electronic check,Fiber,0,1,0
+101264,61,79.05,0,28.2,Two year,Bank transfer,5G,1,0,0
+101265,52,37.01,1,12.4,One year,Electronic check,Fiber,0,1,0
+101266,36,41.57,1,23.7,One year,Credit card,Fiber,1,1,0
+101267,54,99.63,1,18.6,Two year,Bank transfer,DSL,0,1,0
+101268,15,83.71,2,4.7,Month-to-month,Bank transfer,5G,0,0,0
+101269,55,40.18,1,27.1,Month-to-month,UPI,5G,0,1,0
+101270,10,100.86,3,13.0,One year,Bank transfer,Fiber,0,1,0
+101271,23,63.13,4,15.2,Month-to-month,Credit card,DSL,0,1,0
+101272,34,98.65,2,40.1,Month-to-month,Bank transfer,DSL,0,1,0
+101273,36,62.63,1,34.3,Month-to-month,Electronic check,Fiber,0,0,0
+101274,15,97.91,0,23.7,Two year,UPI,5G,0,1,0
+101275,29,89.47,1,22.2,Month-to-month,Credit card,DSL,0,0,0
+101276,57,62.42,0,17.3,Month-to-month,Credit card,DSL,0,1,0
+101277,37,62.1,3,11.8,One year,UPI,5G,0,1,0
+101278,54,102.08,1,18.5,Month-to-month,Bank transfer,DSL,0,1,0
+101279,7,80.28,3,32.5,Month-to-month,Bank transfer,DSL,0,1,0
+101280,5,48.25,3,21.0,One year,Bank transfer,Fiber,0,1,0
+101281,9,50.72,1,14.3,Month-to-month,Electronic check,5G,0,1,0
+101282,13,61.31,1,32.9,Month-to-month,Credit card,5G,0,1,0
+101283,37,68.39,2,8.1,Month-to-month,Credit card,Fiber,0,0,0
+101284,33,45.24,2,25.0,Month-to-month,Electronic check,Fiber,0,1,0
+101285,2,109.95,3,11.3,One year,Bank transfer,DSL,0,1,0
+101286,33,51.29,6,26.5,Two year,Credit card,5G,1,1,0
+101287,37,49.11,2,12.6,Month-to-month,UPI,5G,0,0,0
+101288,26,,2,21.8,Two year,Bank transfer,5G,0,1,0
+101289,23,68.26,1,21.7,One year,Credit card,Fiber,0,0,0
+101290,8,65.2,2,14.7,Month-to-month,Electronic check,Fiber,1,1,1
+101291,30,88.14,2,10.6,One year,UPI,Fiber,0,0,0
+101292,13,61.32,2,35.8,One year,Electronic check,Fiber,0,1,1
+101293,51,70.91,3,2.0,One year,Credit card,Fiber,0,0,0
+101294,19,68.43,1,17.2,Two year,Electronic check,Fiber,0,1,0
+101295,28,71.84,1,16.6,Month-to-month,UPI,DSL,0,0,0
+101296,24,63.17,4,25.7,Month-to-month,UPI,DSL,0,0,1
+101297,20,57.41,2,29.8,Month-to-month,Electronic check,Fiber,0,0,0
+101298,34,76.14,2,20.5,Two year,Electronic check,DSL,0,0,0
+101299,49,96.45,0,16.6,Month-to-month,Electronic check,DSL,0,0,0
+101300,8,127.85,0,7.8,Month-to-month,Electronic check,5G,1,1,1
+101301,32,48.16,2,15.1,Month-to-month,Electronic check,Fiber,0,1,0
+101302,59,51.89,1,29.4,Two year,Credit card,DSL,0,0,0
+101303,17,69.05,2,22.5,One year,Credit card,Fiber,0,1,0
+101304,18,91.22,5,29.1,Month-to-month,Bank transfer,Fiber,0,0,1
+101305,24,77.42,5,17.8,One year,Electronic check,Fiber,0,1,0
+101306,15,58.44,0,25.5,One year,Electronic check,Fiber,0,0,0
+101307,18,90.79,0,34.1,One year,Credit card,Fiber,0,1,0
+101308,15,42.46,2,13.2,Month-to-month,Electronic check,DSL,0,1,0
+101309,55,63.81,3,38.9,Month-to-month,Credit card,DSL,0,1,0
+101310,43,,1,29.8,Month-to-month,UPI,5G,1,1,0
+101311,25,49.79,1,23.0,One year,Electronic check,Fiber,0,0,0
+101312,27,42.58,1,30.9,Two year,Credit card,Fiber,0,1,0
+101313,16,57.33,5,21.9,One year,Credit card,Fiber,0,0,0
+101314,45,56.4,3,32.1,Two year,Bank transfer,DSL,0,1,0
+101315,13,38.07,1,36.5,One year,Bank transfer,Fiber,0,0,0
+101316,35,38.84,2,22.7,Month-to-month,Credit card,Fiber,0,1,0
+101317,36,54.61,2,17.6,Month-to-month,Credit card,DSL,0,0,0
+101318,37,82.27,2,23.0,Month-to-month,Electronic check,DSL,0,0,0
+101319,12,45.47,1,7.9,Month-to-month,Electronic check,DSL,0,0,0
+101320,29,79.82,4,33.4,Month-to-month,Credit card,5G,1,0,1
+101321,7,71.73,2,29.4,Month-to-month,Credit card,5G,1,1,1
+101322,33,82.01,1,11.1,Month-to-month,Bank transfer,Fiber,0,0,0
+101323,24,35.07,2,5.3,Two year,Bank transfer,DSL,1,0,0
+101324,7,52.09,3,28.2,One year,Bank transfer,5G,0,1,0
+101325,37,84.99,2,18.9,Month-to-month,Bank transfer,Fiber,0,1,0
+101326,21,114.67,3,28.7,Month-to-month,Electronic check,5G,1,1,1
+101327,31,57.34,3,5.7,Two year,Bank transfer,Fiber,0,0,0
+101328,21,33.61,1,20.6,Month-to-month,Electronic check,Fiber,0,0,0
+101329,14,78.12,0,23.6,Two year,Bank transfer,DSL,0,0,0
+101330,31,102.52,3,18.9,Month-to-month,Electronic check,Fiber,0,0,0
+101331,7,75.36,2,27.1,Month-to-month,Electronic check,Fiber,0,0,1
+101332,31,56.46,1,16.6,Two year,Credit card,DSL,1,0,0
+101333,10,56.73,3,27.2,Two year,Credit card,Fiber,0,0,0
+101334,31,94.11,1,2.9,Month-to-month,Electronic check,Fiber,0,0,1
+101335,13,126.83,5,13.2,Month-to-month,Electronic check,Fiber,0,1,1
+101336,31,103.02,2,26.1,Month-to-month,Electronic check,DSL,0,1,0
+101337,42,85.76,1,18.7,Month-to-month,Credit card,DSL,0,0,0
+101338,8,82.53,1,14.8,Month-to-month,Credit card,Fiber,0,1,1
+101339,6,69.7,1,31.0,Month-to-month,Electronic check,DSL,0,0,0
+101340,34,74.85,3,36.8,Month-to-month,UPI,Fiber,0,1,0
+101341,23,69.19,4,28.6,Month-to-month,Electronic check,Fiber,0,0,0
+101342,14,,0,20.3,Month-to-month,Electronic check,Fiber,0,0,0
+101343,29,,1,32.4,Month-to-month,Bank transfer,Fiber,0,0,0
+101344,14,82.36,6,24.1,Month-to-month,Bank transfer,Fiber,0,0,0
+101345,10,67.97,0,11.4,Month-to-month,Bank transfer,DSL,0,1,0
+101346,4,56.66,1,20.3,Month-to-month,Bank transfer,5G,0,0,0
+101347,47,75.58,0,29.6,Month-to-month,Credit card,5G,0,0,0
+101348,52,75.65,0,24.0,Month-to-month,Credit card,Fiber,1,0,0
+101349,47,48.71,2,16.9,Two year,UPI,Fiber,1,1,0
+101350,43,44.85,3,30.1,Month-to-month,Electronic check,Fiber,0,1,1
+101351,21,88.05,3,30.8,One year,Electronic check,DSL,0,0,0
+101352,71,49.52,3,31.6,Two year,UPI,5G,0,1,0
+101353,16,74.19,1,27.0,Two year,Credit card,5G,0,1,0
+101354,43,72.18,1,21.5,Month-to-month,Bank transfer,Fiber,0,0,0
+101355,37,64.18,2,33.0,One year,Electronic check,DSL,0,0,0
+101356,21,65.3,3,33.5,Two year,Credit card,Fiber,0,0,0
+101357,65,69.66,1,19.8,Month-to-month,Credit card,5G,0,0,0
+101358,53,69.03,2,12.3,One year,UPI,Fiber,0,1,0
+101359,38,45.04,3,20.4,Two year,Bank transfer,Fiber,0,1,0
+101360,26,66.45,4,22.4,One year,Bank transfer,Fiber,0,1,0
+101361,15,85.34,1,18.4,Month-to-month,UPI,DSL,0,0,0
+101362,17,106.47,3,28.9,Month-to-month,Electronic check,DSL,0,0,0
+101363,7,102.54,1,18.6,Month-to-month,Electronic check,DSL,0,0,0
+101364,4,25.0,0,17.8,Two year,Bank transfer,Fiber,0,1,0
+101365,12,93.12,1,16.4,Month-to-month,UPI,DSL,0,0,0
+101366,44,71.23,0,22.8,Month-to-month,Electronic check,DSL,0,0,0
+101367,14,47.26,3,20.8,Two year,UPI,5G,0,0,0
+101368,35,66.35,3,8.6,Month-to-month,Electronic check,Fiber,0,1,0
+101369,9,99.89,2,34.9,Month-to-month,Electronic check,DSL,0,1,0
+101370,26,75.4,4,16.7,One year,Credit card,5G,0,1,0
+101371,64,61.72,1,22.9,Month-to-month,Credit card,Fiber,0,1,0
+101372,15,54.22,2,23.5,One year,Credit card,Fiber,0,0,0
+101373,8,66.9,2,29.5,Month-to-month,Electronic check,Fiber,0,1,1
+101374,38,64.67,1,13.7,Month-to-month,Bank transfer,DSL,0,1,0
+101375,37,49.55,1,21.8,One year,Credit card,5G,0,1,0
+101376,64,34.81,2,41.4,One year,UPI,DSL,0,0,0
+101377,36,49.37,2,18.2,Month-to-month,UPI,Fiber,0,0,0
+101378,23,76.93,0,8.7,Two year,Credit card,DSL,0,0,0
+101379,15,25.0,0,31.3,Month-to-month,Bank transfer,DSL,0,0,0
+101380,48,48.77,3,21.8,One year,Bank transfer,DSL,0,1,0
+101381,1,123.64,1,29.1,Month-to-month,Credit card,DSL,0,0,0
+101382,3,82.79,2,29.4,One year,UPI,5G,0,0,0
+101383,29,113.05,1,19.8,Month-to-month,Bank transfer,DSL,0,1,0
+101384,46,93.81,0,11.1,One year,UPI,DSL,0,1,0
+101385,20,94.47,1,39.6,One year,Electronic check,DSL,0,0,0
+101386,27,88.01,1,31.4,Month-to-month,Electronic check,Fiber,0,1,0
+101387,29,59.2,1,18.7,Month-to-month,Credit card,Fiber,1,1,0
+101388,53,76.55,3,27.1,Month-to-month,Electronic check,DSL,0,0,0
+101389,41,105.2,3,31.2,Month-to-month,UPI,Fiber,0,1,0
+101390,34,77.65,0,26.8,One year,Electronic check,5G,0,1,0
+101391,12,64.83,1,28.9,Month-to-month,Electronic check,Fiber,0,1,0
+101392,43,69.95,1,31.0,Month-to-month,Electronic check,Fiber,0,0,0
+101393,41,104.08,1,26.4,Month-to-month,Bank transfer,5G,0,0,0
+101394,25,42.42,2,24.1,One year,Credit card,DSL,0,0,0
+101395,42,113.48,2,29.8,Two year,Electronic check,5G,0,0,0
+101396,9,65.49,0,24.8,One year,Electronic check,DSL,0,1,0
+101397,30,67.13,1,18.1,Month-to-month,Credit card,DSL,0,1,0
+101398,42,60.74,0,24.5,Month-to-month,UPI,Fiber,0,0,0
+101399,30,75.04,3,23.2,Month-to-month,Bank transfer,Fiber,0,0,0
+101400,59,73.48,0,15.0,Two year,Credit card,DSL,0,0,0
+101401,12,80.6,2,28.1,Month-to-month,Electronic check,Fiber,0,1,0
+101402,21,62.12,4,21.3,Month-to-month,UPI,Fiber,0,1,0
+101403,49,46.1,2,15.8,Month-to-month,Bank transfer,Fiber,0,0,0
+101404,35,56.59,2,10.8,Month-to-month,Electronic check,DSL,0,0,0
+101405,12,48.76,0,25.2,Month-to-month,Bank transfer,Fiber,0,0,0
+101406,16,39.05,3,9.6,One year,Electronic check,Fiber,0,1,0
+101407,2,81.09,1,19.7,One year,Bank transfer,5G,1,1,1
+101408,20,81.31,0,22.2,One year,Electronic check,Fiber,0,1,0
+101409,60,30.57,1,22.4,One year,Credit card,DSL,0,0,0
+101410,43,44.86,4,16.9,Month-to-month,Bank transfer,DSL,1,1,0
+101411,19,94.09,2,2.0,Month-to-month,Electronic check,Fiber,0,0,0
+101412,8,83.49,2,12.3,Month-to-month,Bank transfer,Fiber,0,1,0
+101413,51,,3,10.8,Month-to-month,Credit card,DSL,0,1,0
+101414,12,50.98,1,31.5,Month-to-month,UPI,Fiber,0,0,0
+101415,72,25.0,0,34.4,Month-to-month,Bank transfer,Fiber,0,1,0
+101416,7,32.4,0,37.0,Month-to-month,Credit card,DSL,0,1,0
+101417,10,78.19,2,16.6,One year,Bank transfer,Fiber,0,1,0
+101418,11,41.34,4,8.3,Month-to-month,UPI,Fiber,0,1,0
+101419,34,103.82,3,21.8,Month-to-month,Bank transfer,Fiber,0,0,0
+101420,38,71.09,0,15.3,Month-to-month,Bank transfer,DSL,0,1,0
+101421,7,80.55,1,24.1,One year,UPI,5G,1,0,0
+101422,53,85.05,2,43.4,Two year,Credit card,Fiber,0,1,0
+101423,25,95.42,1,15.8,Month-to-month,UPI,DSL,1,1,0
+101424,29,73.95,1,32.6,One year,Credit card,5G,0,0,0
+101425,26,79.9,3,16.8,Month-to-month,Bank transfer,Fiber,0,1,0
+101426,5,29.2,1,31.5,Month-to-month,Electronic check,DSL,0,1,0
+101427,21,45.79,2,21.5,Month-to-month,Credit card,Fiber,1,1,0
+101428,2,81.03,1,23.6,Month-to-month,Bank transfer,Fiber,0,1,1
+101429,28,74.34,2,28.5,Month-to-month,Electronic check,DSL,0,0,0
+101430,26,62.47,2,32.7,Month-to-month,Credit card,DSL,0,1,0
+101431,35,53.89,1,21.5,Two year,Electronic check,DSL,0,0,0
+101432,28,86.79,5,36.7,One year,Electronic check,DSL,0,1,0
+101433,65,76.06,0,14.3,One year,Bank transfer,Fiber,0,1,0
+101434,21,62.67,1,30.3,Month-to-month,UPI,Fiber,1,1,0
+101435,26,116.55,3,3.6,Two year,Bank transfer,DSL,0,0,0
+101436,65,64.59,0,12.6,Month-to-month,Credit card,Fiber,0,1,0
+101437,32,55.27,3,9.9,Month-to-month,UPI,5G,0,1,0
+101438,28,98.41,0,7.5,One year,UPI,Fiber,0,0,0
+101439,45,50.1,1,23.9,Month-to-month,Bank transfer,Fiber,1,1,0
+101440,12,55.58,1,19.9,Two year,Bank transfer,Fiber,1,0,0
+101441,16,79.35,2,10.3,Month-to-month,Electronic check,Fiber,1,0,0
+101442,20,108.71,2,25.1,One year,Credit card,5G,0,0,0
+101443,30,61.2,1,7.6,One year,Electronic check,DSL,0,0,0
+101444,35,25.17,1,33.4,One year,Bank transfer,DSL,0,1,0
+101445,19,97.31,4,13.4,One year,Electronic check,DSL,0,1,0
+101446,59,70.87,1,20.5,One year,Credit card,5G,0,0,0
+101447,9,92.94,0,28.1,Month-to-month,Bank transfer,Fiber,0,1,1
+101448,23,82.63,3,18.9,Month-to-month,Electronic check,Fiber,0,1,1
+101449,6,100.16,3,10.5,Month-to-month,Credit card,DSL,0,0,0
+101450,10,74.07,2,12.8,One year,Electronic check,DSL,1,1,0
+101451,8,31.02,2,18.7,One year,Credit card,DSL,0,1,0
+101452,27,,3,28.3,Two year,Credit card,5G,0,1,0
+101453,38,106.1,0,21.6,Month-to-month,Electronic check,5G,0,0,0
+101454,33,110.77,3,14.4,Month-to-month,Bank transfer,Fiber,0,0,0
+101455,39,98.23,0,4.6,Month-to-month,UPI,Fiber,1,1,0
+101456,37,76.51,1,13.1,One year,Electronic check,Fiber,0,1,0
+101457,35,46.97,6,31.4,Month-to-month,Credit card,Fiber,0,1,0
+101458,10,106.06,2,40.3,Month-to-month,UPI,Fiber,0,1,0
+101459,39,48.57,1,29.3,Month-to-month,Electronic check,5G,1,1,0
+101460,56,71.91,1,26.6,Two year,Credit card,5G,0,1,0
+101461,72,66.0,2,23.8,Month-to-month,Credit card,5G,1,1,0
+101462,9,82.95,1,13.3,One year,Credit card,Fiber,0,0,0
+101463,63,84.86,3,25.0,Month-to-month,Credit card,Fiber,0,0,0
+101464,26,135.12,1,22.1,Two year,Credit card,5G,0,1,0
+101465,33,105.77,0,17.8,Two year,Electronic check,Fiber,0,1,0
+101466,20,69.88,3,30.2,Month-to-month,UPI,5G,0,0,0
+101467,42,65.21,0,10.0,Month-to-month,Electronic check,Fiber,0,1,0
+101468,27,45.03,2,38.2,Month-to-month,Credit card,DSL,0,1,0
+101469,57,89.07,0,12.8,Two year,Bank transfer,Fiber,0,1,0
+101470,17,31.76,0,25.5,Two year,Electronic check,Fiber,0,0,0
+101471,47,37.51,1,35.1,One year,Electronic check,DSL,0,1,0
+101472,26,69.14,2,18.0,Month-to-month,Bank transfer,5G,0,0,0
+101473,56,76.44,1,23.9,Month-to-month,Credit card,Fiber,0,0,0
+101474,7,62.09,0,13.0,One year,UPI,Fiber,0,1,0
+101475,32,86.41,1,23.0,Month-to-month,Electronic check,5G,0,0,0
+101476,30,62.04,0,23.9,Month-to-month,Credit card,DSL,0,1,0
+101477,64,103.97,1,34.3,One year,UPI,Fiber,0,0,0
+101478,28,81.95,2,8.2,Month-to-month,Credit card,5G,0,0,1
+101479,44,,3,9.7,One year,Electronic check,Fiber,0,0,0
+101480,8,51.17,3,8.0,Month-to-month,Bank transfer,Fiber,1,0,0
+101481,25,112.04,2,2.0,Month-to-month,Electronic check,Fiber,0,1,0
+101482,14,61.37,1,17.6,Month-to-month,Electronic check,Fiber,0,1,0
+101483,24,36.84,3,28.8,Two year,Electronic check,5G,0,1,0
+101484,9,86.5,2,18.1,One year,Bank transfer,5G,0,1,0
+101485,34,58.62,4,24.4,Month-to-month,UPI,DSL,0,0,0
+101486,39,124.95,1,12.1,Month-to-month,UPI,Fiber,0,1,0
+101487,24,60.14,3,25.9,Month-to-month,Credit card,Fiber,1,0,1
+101488,19,41.47,1,22.0,One year,Credit card,5G,0,1,0
+101489,25,37.26,0,24.8,Month-to-month,Electronic check,Fiber,0,0,1
+101490,40,27.39,0,24.4,Month-to-month,Electronic check,Fiber,0,1,0
+101491,32,88.32,0,19.6,One year,Electronic check,Fiber,0,1,0
+101492,26,114.52,1,10.8,Month-to-month,Bank transfer,Fiber,0,1,0
+101493,10,77.66,0,8.3,Month-to-month,Bank transfer,DSL,0,1,0
+101494,44,65.56,1,22.1,One year,Credit card,Fiber,0,0,0
+101495,37,47.63,3,6.9,One year,Credit card,5G,1,1,0
+101496,20,89.47,4,16.5,One year,Credit card,Fiber,0,0,0
+101497,38,43.61,3,37.0,Month-to-month,Bank transfer,5G,0,0,0
+101498,9,58.92,1,35.9,One year,UPI,5G,0,1,0
+101499,13,64.67,1,26.2,Two year,Credit card,Fiber,0,0,0
+101500,67,97.03,0,17.6,One year,UPI,Fiber,0,1,0
+101501,46,,2,10.5,One year,UPI,5G,0,1,0
+101502,14,104.29,1,26.9,Month-to-month,Credit card,Fiber,1,0,0
+101503,51,124.18,3,12.0,Month-to-month,Credit card,DSL,0,1,0
+101504,23,68.56,5,23.6,Two year,Electronic check,Fiber,0,1,0
+101505,15,117.08,4,21.9,Month-to-month,Electronic check,DSL,0,0,0
+101506,72,107.83,0,27.7,Month-to-month,UPI,Fiber,1,0,0
+101507,11,78.37,1,12.7,Month-to-month,Credit card,5G,0,1,0
+101508,36,105.29,3,18.4,Month-to-month,UPI,Fiber,0,0,0
+101509,9,96.31,2,13.6,Month-to-month,Bank transfer,5G,0,1,0
+101510,13,111.05,1,35.7,Two year,Bank transfer,Fiber,0,1,0
+101511,41,25.0,3,26.2,One year,Credit card,Fiber,1,0,0
+101512,9,51.68,1,27.6,Month-to-month,Credit card,DSL,0,0,0
+101513,22,43.02,2,27.1,Month-to-month,Bank transfer,Fiber,0,0,0
+101514,4,78.98,2,22.3,Month-to-month,Bank transfer,DSL,0,1,0
+101515,41,78.26,1,35.2,Month-to-month,Credit card,DSL,0,1,0
+101516,30,44.0,1,30.0,Two year,Bank transfer,5G,0,1,0
+101517,7,57.04,2,22.6,One year,Credit card,Fiber,0,1,0
+101518,19,75.43,2,36.8,One year,UPI,5G,0,0,0
+101519,15,68.6,2,11.1,Month-to-month,UPI,Fiber,0,1,0
+101520,14,72.19,1,25.5,Month-to-month,Credit card,DSL,0,0,0
+101521,26,62.86,1,24.5,Month-to-month,Electronic check,5G,0,1,0
+101522,16,44.92,0,24.3,Two year,Bank transfer,DSL,0,0,0
+101523,52,85.76,1,19.7,Month-to-month,Bank transfer,DSL,0,1,0
+101524,24,42.06,4,33.7,Month-to-month,Electronic check,5G,0,1,0
+101525,7,89.84,2,13.8,Month-to-month,Electronic check,Fiber,0,1,0
+101526,4,77.03,0,23.5,Month-to-month,Credit card,5G,0,1,0
+101527,8,92.95,2,20.7,Two year,Credit card,Fiber,0,0,0
+101528,27,92.06,0,29.0,Month-to-month,UPI,Fiber,0,0,0
+101529,54,38.12,1,20.7,One year,Credit card,Fiber,0,1,0
+101530,17,44.42,0,19.7,One year,Electronic check,DSL,0,1,0
+101531,6,25.0,3,26.4,Month-to-month,Electronic check,Fiber,1,1,0
+101532,3,38.65,1,12.2,One year,Credit card,Fiber,0,1,0
+101533,35,46.75,2,27.8,Month-to-month,UPI,DSL,0,1,0
+101534,18,90.48,3,30.6,One year,UPI,DSL,1,1,0
+101535,27,83.32,1,26.0,Month-to-month,Credit card,DSL,1,1,0
+101536,16,31.71,2,6.0,Month-to-month,Credit card,Fiber,0,1,0
+101537,38,88.0,0,18.6,Month-to-month,UPI,Fiber,0,1,0
+101538,42,57.68,1,15.7,One year,Electronic check,Fiber,0,0,0
+101539,26,75.64,1,16.0,Two year,Credit card,DSL,0,1,0
+101540,30,72.34,1,30.1,Month-to-month,Electronic check,DSL,0,1,0
+101541,15,65.13,2,16.6,Two year,Credit card,Fiber,0,0,0
+101542,49,98.19,1,5.0,Month-to-month,Bank transfer,5G,0,1,0
+101543,18,38.36,1,33.1,One year,Bank transfer,Fiber,0,1,0
+101544,9,,3,19.9,One year,Credit card,5G,0,1,0
+101545,58,102.15,2,19.9,Month-to-month,Bank transfer,5G,1,1,0
+101546,43,63.03,3,15.8,Month-to-month,Credit card,Fiber,0,1,0
+101547,22,57.74,1,2.0,Month-to-month,Credit card,Fiber,0,1,0
+101548,33,49.96,0,17.8,One year,UPI,Fiber,0,0,0
+101549,2,76.42,2,15.1,One year,Bank transfer,DSL,0,1,0
+101550,29,79.21,2,25.9,Month-to-month,Electronic check,Fiber,0,1,0
+101551,38,78.27,0,22.8,Month-to-month,Electronic check,Fiber,1,1,0
+101552,44,25.0,1,18.0,One year,Bank transfer,5G,1,0,0
+101553,21,108.13,1,19.3,One year,UPI,DSL,0,1,1
+101554,18,91.26,3,24.1,Month-to-month,Credit card,DSL,1,0,0
+101555,36,67.53,3,10.3,Month-to-month,Credit card,DSL,0,1,0
+101556,19,83.7,3,21.2,Two year,Bank transfer,DSL,0,1,0
+101557,24,41.34,1,18.4,Month-to-month,Electronic check,DSL,0,0,0
+101558,5,80.59,3,21.8,Month-to-month,Electronic check,Fiber,0,1,0
+101559,51,55.06,1,34.4,Month-to-month,Electronic check,Fiber,0,0,0
+101560,27,79.94,2,38.9,Month-to-month,UPI,5G,0,0,0
+101561,28,47.87,3,23.8,Month-to-month,Bank transfer,DSL,0,1,0
+101562,48,61.14,2,36.7,Two year,Electronic check,DSL,0,1,0
+101563,37,82.76,1,12.0,Month-to-month,Credit card,Fiber,0,0,0
+101564,16,59.07,1,16.7,Month-to-month,UPI,Fiber,1,1,0
+101565,6,75.21,2,23.1,One year,Electronic check,Fiber,0,1,0
+101566,41,69.34,0,22.7,One year,UPI,DSL,0,1,0
+101567,8,100.4,2,28.4,Month-to-month,Credit card,DSL,0,1,0
+101568,26,89.62,1,25.9,Month-to-month,Bank transfer,5G,1,0,0
+101569,25,75.89,0,30.4,One year,Bank transfer,DSL,0,0,0
+101570,13,122.23,0,10.2,Month-to-month,Credit card,5G,0,1,0
+101571,39,79.59,2,35.8,One year,Credit card,5G,0,1,0
+101572,37,58.46,1,29.5,Month-to-month,Electronic check,DSL,0,1,0
+101573,41,110.59,2,8.9,One year,Electronic check,DSL,0,0,0
+101574,13,63.22,0,14.9,Month-to-month,Credit card,DSL,0,0,0
+101575,32,63.62,0,15.0,One year,Electronic check,DSL,0,0,0
+101576,26,49.51,0,21.5,Month-to-month,Credit card,Fiber,0,0,0
+101577,27,68.45,3,13.1,Month-to-month,Electronic check,DSL,0,1,0
+101578,29,88.12,0,19.4,Month-to-month,UPI,Fiber,0,1,1
+101579,10,31.9,2,29.4,Month-to-month,Bank transfer,DSL,0,1,0
+101580,26,68.97,1,17.5,Month-to-month,Electronic check,Fiber,0,1,0
+101581,3,36.25,3,18.6,Month-to-month,Electronic check,DSL,0,1,0
+101582,9,101.48,0,5.7,One year,Credit card,Fiber,0,1,0
+101583,20,72.12,2,38.6,Month-to-month,Credit card,Fiber,0,0,0
+101584,12,102.25,2,18.8,Month-to-month,Credit card,5G,0,0,0
+101585,37,69.01,2,22.8,Month-to-month,Credit card,Fiber,0,0,0
+101586,14,33.7,5,16.5,One year,Credit card,Fiber,0,0,0
+101587,72,61.15,0,19.4,Two year,Bank transfer,5G,0,1,0
+101588,30,147.19,1,21.9,Month-to-month,Credit card,Fiber,1,1,0
+101589,20,72.1,2,10.7,One year,Electronic check,5G,0,1,0
+101590,15,95.62,0,31.4,Month-to-month,Bank transfer,Fiber,1,0,0
+101591,28,52.25,2,19.0,Month-to-month,Bank transfer,Fiber,0,1,0
+101592,15,62.31,0,32.5,Month-to-month,Credit card,DSL,1,1,0
+101593,38,90.86,1,20.0,One year,Credit card,DSL,0,1,0
+101594,22,100.99,4,36.0,One year,Electronic check,Fiber,0,1,0
+101595,49,96.3,2,29.9,One year,Bank transfer,Fiber,0,0,0
+101596,5,48.15,2,28.8,Two year,Electronic check,Fiber,0,1,0
+101597,10,34.09,0,19.6,Two year,Bank transfer,Fiber,0,0,0
+101598,20,38.23,1,32.9,Two year,UPI,5G,0,1,0
+101599,42,54.11,1,31.2,Month-to-month,Electronic check,5G,0,0,0
+101600,14,62.26,2,34.7,Month-to-month,Electronic check,5G,0,1,0
+101601,72,81.93,2,17.0,One year,Bank transfer,Fiber,0,0,0
+101602,23,29.58,2,31.3,Month-to-month,UPI,Fiber,0,0,0
+101603,55,38.49,0,29.6,Month-to-month,Credit card,Fiber,0,0,0
+101604,49,76.32,0,39.3,Month-to-month,Electronic check,Fiber,0,0,0
+101605,43,71.13,2,23.5,Month-to-month,Credit card,DSL,0,0,0
+101606,14,62.24,2,10.9,Month-to-month,Electronic check,DSL,0,1,0
+101607,72,110.53,2,17.2,One year,Electronic check,DSL,0,1,0
+101608,48,47.49,2,17.6,Month-to-month,Electronic check,Fiber,0,1,0
+101609,7,90.28,1,13.0,One year,Electronic check,5G,0,1,1
+101610,11,73.47,0,12.5,Month-to-month,Electronic check,Fiber,0,1,0
+101611,72,63.25,5,24.9,One year,Credit card,DSL,0,1,0
+101612,32,52.28,3,25.4,Month-to-month,Electronic check,DSL,0,0,0
+101613,31,32.18,4,23.3,One year,Electronic check,Fiber,0,0,0
+101614,29,41.54,2,23.9,Month-to-month,Electronic check,Fiber,0,1,0
+101615,63,,1,15.3,Month-to-month,Electronic check,DSL,1,1,0
+101616,56,51.36,2,32.9,Month-to-month,Credit card,DSL,0,0,0
+101617,44,52.97,3,9.8,One year,Bank transfer,Fiber,0,0,0
+101618,10,67.25,0,14.6,Two year,UPI,Fiber,0,0,0
+101619,8,98.47,1,34.1,Two year,Credit card,Fiber,0,0,0
+101620,3,81.37,6,20.9,Month-to-month,Bank transfer,DSL,1,1,0
+101621,71,71.15,2,25.3,One year,Credit card,Fiber,0,1,0
+101622,12,48.07,2,29.0,Month-to-month,Bank transfer,5G,0,1,0
+101623,16,64.83,1,14.0,Month-to-month,Electronic check,5G,0,1,0
+101624,35,76.85,0,23.9,Month-to-month,Credit card,DSL,0,0,0
+101625,16,53.73,0,38.3,Month-to-month,Bank transfer,DSL,0,0,0
+101626,15,80.45,3,14.7,One year,Electronic check,Fiber,1,1,0
+101627,20,69.91,2,17.3,Two year,Credit card,5G,0,0,0
+101628,37,82.98,2,14.0,Month-to-month,Electronic check,5G,1,0,0
+101629,23,136.14,0,25.3,Month-to-month,Electronic check,DSL,0,1,0
+101630,53,76.1,1,24.9,Month-to-month,UPI,DSL,0,1,0
+101631,72,79.75,1,23.6,Month-to-month,Electronic check,5G,0,1,0
+101632,25,62.86,1,23.3,Two year,Electronic check,Fiber,0,1,0
+101633,11,88.73,0,7.9,Month-to-month,Bank transfer,Fiber,0,0,0
+101634,9,54.49,2,21.7,Month-to-month,Electronic check,5G,0,1,0
+101635,14,73.61,3,23.9,Month-to-month,Electronic check,5G,0,1,0
+101636,8,29.36,0,10.5,Month-to-month,UPI,DSL,0,0,0
+101637,43,109.77,3,9.7,Two year,Credit card,DSL,0,1,0
+101638,30,94.61,2,16.0,One year,Electronic check,Fiber,0,0,0
+101639,32,48.18,4,25.4,Month-to-month,Credit card,DSL,0,1,0
+101640,28,106.22,0,28.1,One year,UPI,5G,0,1,0
+101641,17,77.33,1,9.0,Month-to-month,UPI,Fiber,0,0,0
+101642,25,85.79,1,20.8,Two year,Electronic check,Fiber,0,1,0
+101643,26,75.26,1,23.8,Month-to-month,Credit card,Fiber,0,0,1
+101644,5,66.22,1,23.4,One year,Credit card,DSL,1,1,0
+101645,41,89.89,3,32.6,One year,Bank transfer,Fiber,0,1,0
+101646,71,62.78,3,12.5,Month-to-month,Bank transfer,Fiber,0,0,0
+101647,35,46.84,0,16.6,Month-to-month,Electronic check,Fiber,0,1,0
+101648,68,100.21,3,16.8,Two year,Electronic check,Fiber,0,1,0
+101649,9,69.47,2,17.5,Month-to-month,UPI,Fiber,1,1,0
+101650,59,90.95,2,6.3,Month-to-month,Credit card,5G,0,1,1
+101651,37,70.03,1,35.2,Month-to-month,Bank transfer,Fiber,0,1,0
+101652,35,90.66,2,35.6,Month-to-month,UPI,DSL,1,1,0
+101653,35,33.06,0,14.0,Month-to-month,Electronic check,Fiber,0,0,0
+101654,21,88.31,4,24.6,One year,Bank transfer,5G,0,0,0
+101655,26,81.15,2,20.8,Month-to-month,Credit card,DSL,0,0,0
+101656,23,,1,32.2,One year,Bank transfer,DSL,1,0,0
+101657,6,86.64,0,30.2,One year,Credit card,Fiber,0,1,0
+101658,22,86.7,1,26.2,Two year,Credit card,Fiber,0,1,0
+101659,30,73.54,2,33.7,Month-to-month,UPI,Fiber,0,1,0
+101660,56,89.99,2,22.6,One year,Credit card,Fiber,0,0,1
+101661,66,55.06,1,16.8,Two year,Bank transfer,5G,0,0,0
+101662,51,50.67,1,8.4,Two year,Credit card,Fiber,0,1,0
+101663,18,38.95,0,8.9,One year,Credit card,Fiber,0,1,0
+101664,44,83.37,3,22.0,One year,UPI,Fiber,0,1,0
+101665,5,76.65,2,15.1,Month-to-month,Bank transfer,Fiber,0,0,0
+101666,30,34.71,3,24.9,Month-to-month,Bank transfer,Fiber,0,0,0
+101667,39,86.47,1,29.4,Month-to-month,Bank transfer,Fiber,0,1,0
+101668,7,91.82,2,10.9,Two year,Bank transfer,5G,0,1,0
+101669,40,115.62,0,31.4,One year,Bank transfer,5G,0,1,0
+101670,8,71.36,2,10.5,Month-to-month,Bank transfer,Fiber,0,1,0
+101671,37,106.84,0,24.3,Month-to-month,Credit card,Fiber,0,1,0
+101672,18,37.62,1,23.9,Month-to-month,Bank transfer,Fiber,0,1,0
+101673,14,99.19,2,15.0,One year,Credit card,Fiber,0,1,0
+101674,36,93.99,2,30.6,Two year,Bank transfer,DSL,0,1,0
+101675,14,66.98,2,16.8,One year,Credit card,DSL,0,0,0
+101676,72,89.98,1,31.8,Month-to-month,Electronic check,5G,0,1,0
+101677,51,25.25,2,31.5,Month-to-month,UPI,Fiber,0,0,0
+101678,72,74.43,2,16.4,Two year,Electronic check,Fiber,0,0,0
+101679,53,81.43,1,21.7,Month-to-month,Credit card,Fiber,0,0,0
+101680,6,,2,24.9,Month-to-month,Credit card,5G,0,0,0
+101681,25,90.4,4,19.6,Two year,Electronic check,Fiber,0,1,1
+101682,13,89.6,0,30.5,Month-to-month,UPI,DSL,0,1,0
+101683,24,40.43,3,13.0,Month-to-month,UPI,DSL,0,0,0
+101684,15,82.32,2,11.0,Two year,UPI,5G,1,1,0
+101685,40,56.81,5,23.5,Month-to-month,Credit card,5G,0,0,0
+101686,19,98.2,1,5.9,One year,Credit card,DSL,1,0,1
+101687,14,78.79,3,26.5,Month-to-month,Credit card,Fiber,0,1,0
+101688,20,94.52,2,13.6,Month-to-month,Credit card,DSL,0,0,0
+101689,15,127.08,2,17.5,Month-to-month,Credit card,Fiber,0,1,0
+101690,62,100.35,1,22.9,Two year,Bank transfer,Fiber,0,1,0
+101691,15,25.0,0,34.1,Month-to-month,Credit card,DSL,1,1,0
+101692,41,46.73,0,37.3,Month-to-month,Electronic check,Fiber,0,1,0
+101693,33,73.37,2,21.2,Month-to-month,Electronic check,DSL,0,0,0
+101694,40,80.3,1,30.6,Two year,Electronic check,Fiber,0,0,0
+101695,8,76.02,1,16.0,Month-to-month,Credit card,Fiber,1,0,0
+101696,15,71.73,2,12.9,Two year,Electronic check,DSL,0,0,0
+101697,54,92.4,3,35.2,Month-to-month,Credit card,5G,0,1,0
+101698,40,55.26,4,19.6,Month-to-month,Electronic check,Fiber,0,1,0
+101699,21,82.4,0,29.5,Month-to-month,Bank transfer,5G,0,1,0
+101700,18,63.79,3,22.5,Month-to-month,UPI,Fiber,0,0,0
+101701,13,96.89,3,21.6,One year,Electronic check,DSL,0,0,0
+101702,14,77.75,2,15.2,Month-to-month,UPI,Fiber,1,1,0
+101703,48,49.43,3,28.9,Month-to-month,Credit card,5G,0,0,0
+101704,22,49.47,3,6.4,Month-to-month,Credit card,Fiber,1,0,0
+101705,29,117.43,1,32.6,One year,Electronic check,Fiber,1,1,0
+101706,28,87.48,5,26.3,One year,Electronic check,DSL,0,0,0
+101707,24,90.18,3,32.6,One year,UPI,Fiber,1,1,1
+101708,37,61.97,2,13.1,Month-to-month,Credit card,Fiber,0,0,0
+101709,11,64.33,2,20.6,One year,Electronic check,Fiber,0,0,0
+101710,22,25.7,1,26.9,Month-to-month,Bank transfer,DSL,0,0,0
+101711,67,90.0,1,27.5,Two year,Credit card,Fiber,0,0,0
+101712,46,72.5,2,12.6,Month-to-month,Bank transfer,DSL,0,0,0
+101713,51,98.72,1,3.4,Month-to-month,Credit card,Fiber,0,1,0
+101714,28,102.81,1,28.8,Month-to-month,Credit card,5G,0,0,0
+101715,18,75.37,1,29.2,Month-to-month,Bank transfer,Fiber,1,1,0
+101716,33,82.08,3,35.7,One year,Credit card,Fiber,0,1,0
+101717,33,97.23,1,29.9,Two year,Credit card,DSL,1,1,0
+101718,23,64.07,2,16.4,One year,Electronic check,Fiber,0,1,0
+101719,17,92.33,0,29.4,Month-to-month,Credit card,Fiber,0,0,0
+101720,10,30.83,0,7.1,Two year,Credit card,Fiber,0,0,0
+101721,12,85.28,1,34.6,Month-to-month,Credit card,5G,0,1,0
+101722,9,66.26,3,5.0,Month-to-month,UPI,5G,0,1,0
+101723,52,75.68,0,16.1,Two year,Bank transfer,Fiber,0,0,0
+101724,33,49.24,1,9.9,Two year,Electronic check,DSL,0,1,0
+101725,45,53.59,1,21.2,One year,UPI,Fiber,0,0,0
+101726,30,58.26,1,25.9,One year,Bank transfer,5G,1,1,0
+101727,62,71.46,0,6.5,One year,Electronic check,Fiber,0,0,0
+101728,56,53.51,3,26.2,One year,UPI,Fiber,1,1,0
+101729,15,38.51,1,8.0,Month-to-month,Bank transfer,DSL,0,1,0
+101730,29,116.62,0,16.2,One year,UPI,Fiber,1,1,0
+101731,35,85.56,1,33.0,Month-to-month,UPI,Fiber,0,1,1
+101732,18,51.1,1,19.7,Two year,Credit card,Fiber,0,0,0
+101733,24,63.64,3,23.9,One year,UPI,Fiber,1,1,0
+101734,27,69.61,4,25.2,Month-to-month,Credit card,Fiber,0,0,0
+101735,33,81.57,0,35.4,Month-to-month,Bank transfer,5G,0,0,0
+101736,26,50.37,2,25.8,One year,UPI,DSL,0,0,0
+101737,27,55.57,3,27.0,Month-to-month,UPI,DSL,0,0,0
+101738,14,88.23,1,18.7,Month-to-month,Credit card,5G,0,1,0
+101739,29,131.4,2,7.2,One year,Electronic check,DSL,0,1,1
+101740,51,88.09,3,12.8,Month-to-month,UPI,Fiber,1,0,0
+101741,65,72.79,2,20.0,One year,UPI,Fiber,0,0,0
+101742,7,42.61,1,34.4,Two year,Electronic check,DSL,0,0,0
+101743,25,85.59,1,17.8,One year,Electronic check,DSL,0,1,0
+101744,13,48.11,2,4.8,Month-to-month,Electronic check,Fiber,0,0,0
+101745,20,93.78,2,35.6,Month-to-month,Credit card,Fiber,0,1,0
+101746,36,68.07,1,27.2,One year,Electronic check,DSL,0,1,0
+101747,11,55.8,1,21.6,Month-to-month,Bank transfer,Fiber,0,0,0
+101748,16,99.46,1,9.3,Month-to-month,Bank transfer,5G,0,0,0
+101749,18,68.04,1,8.5,Month-to-month,Credit card,Fiber,0,1,0
+101750,25,57.75,2,15.3,Month-to-month,Credit card,Fiber,0,1,0
+101751,30,72.48,2,27.9,Two year,Bank transfer,Fiber,0,1,0
+101752,46,122.26,0,24.4,Month-to-month,Electronic check,Fiber,0,0,0
+101753,7,,0,24.6,One year,Electronic check,Fiber,0,1,1
+101754,55,76.65,3,32.8,Month-to-month,Credit card,Fiber,0,1,0
+101755,17,32.68,1,29.5,Two year,Electronic check,Fiber,0,1,0
+101756,24,109.67,2,34.5,Two year,Electronic check,Fiber,0,0,0
+101757,27,42.41,2,30.7,One year,UPI,DSL,0,1,0
+101758,18,74.37,0,21.6,One year,UPI,Fiber,1,1,0
+101759,18,66.69,1,27.0,Month-to-month,Bank transfer,Fiber,0,1,0
+101760,12,71.56,1,28.1,Month-to-month,Bank transfer,DSL,1,0,1
+101761,58,72.1,0,32.0,Month-to-month,Electronic check,5G,0,0,0
+101762,72,40.01,1,17.9,Month-to-month,Bank transfer,Fiber,0,1,0
+101763,51,68.13,3,13.1,Two year,Electronic check,5G,0,1,0
+101764,14,49.69,3,38.6,Two year,Credit card,Fiber,0,1,0
+101765,11,43.93,2,28.0,One year,Credit card,Fiber,0,1,0
+101766,32,66.15,4,11.2,One year,UPI,Fiber,0,1,0
+101767,53,94.48,1,6.9,One year,UPI,Fiber,0,1,0
+101768,24,78.13,0,18.7,Month-to-month,Credit card,Fiber,1,0,0
+101769,35,54.55,3,26.7,One year,Credit card,Fiber,0,0,0
+101770,25,93.6,0,13.3,Month-to-month,Credit card,5G,0,0,0
+101771,51,110.67,0,28.6,Two year,Bank transfer,Fiber,0,1,0
+101772,51,41.06,3,23.0,Two year,Electronic check,DSL,0,0,0
+101773,68,40.23,3,14.7,Month-to-month,Electronic check,Fiber,0,1,0
+101774,67,111.31,5,14.0,Two year,Bank transfer,Fiber,1,0,0
+101775,7,58.04,3,25.6,Two year,Electronic check,Fiber,0,0,0
+101776,31,91.26,1,13.3,One year,Bank transfer,5G,1,0,0
+101777,25,55.55,1,15.2,One year,Credit card,Fiber,0,0,0
+101778,67,80.06,6,23.1,Two year,Electronic check,Fiber,0,0,0
+101779,25,86.85,1,18.8,Month-to-month,Credit card,Fiber,0,1,0
+101780,25,41.44,3,4.1,One year,UPI,DSL,0,0,0
+101781,41,99.16,1,29.3,Two year,Electronic check,DSL,0,1,0
+101782,4,55.16,0,24.0,Two year,Bank transfer,5G,0,1,0
+101783,25,71.98,2,33.9,One year,Electronic check,DSL,0,1,0
+101784,13,62.45,3,19.0,Two year,Bank transfer,DSL,0,1,0
+101785,16,81.63,1,18.2,One year,Credit card,DSL,0,1,0
+101786,47,84.08,2,2.9,Month-to-month,Credit card,5G,0,0,0
+101787,16,52.85,1,9.8,Month-to-month,Electronic check,DSL,0,0,0
+101788,51,98.54,0,25.5,Month-to-month,UPI,DSL,0,0,0
+101789,14,66.13,1,7.7,Month-to-month,Electronic check,Fiber,0,1,0
+101790,19,80.64,2,11.7,One year,Credit card,Fiber,0,0,0
+101791,19,86.76,2,28.3,One year,Credit card,Fiber,0,1,0
+101792,38,64.17,4,22.1,Month-to-month,Electronic check,Fiber,0,0,0
+101793,27,72.06,3,28.0,Month-to-month,Credit card,DSL,0,0,0
+101794,42,91.53,3,23.4,Two year,UPI,Fiber,0,1,0
+101795,9,40.88,1,26.2,Month-to-month,Credit card,DSL,0,0,0
+101796,34,66.2,1,27.2,Month-to-month,Bank transfer,DSL,0,1,0
+101797,22,119.23,2,25.5,Month-to-month,UPI,5G,0,0,0
+101798,24,58.91,4,24.1,Two year,Credit card,Fiber,0,0,0
+101799,40,108.24,1,17.6,One year,Bank transfer,Fiber,0,0,0
+101800,10,99.95,3,18.6,Month-to-month,Electronic check,Fiber,0,1,0
+101801,19,98.73,1,30.2,Month-to-month,UPI,Fiber,0,1,0
+101802,14,94.4,2,28.7,One year,Credit card,DSL,0,0,0
+101803,45,70.0,1,22.6,Month-to-month,Electronic check,5G,0,1,0
+101804,43,79.26,1,12.9,Month-to-month,Electronic check,Fiber,0,0,0
+101805,7,107.57,3,20.7,Two year,Credit card,Fiber,0,1,0
+101806,16,39.25,1,19.9,Month-to-month,Credit card,Fiber,1,1,0
+101807,18,103.79,4,11.0,Month-to-month,UPI,Fiber,1,0,1
+101808,9,66.51,2,21.6,Month-to-month,Bank transfer,Fiber,0,1,0
+101809,16,111.4,3,2.0,Month-to-month,Electronic check,Fiber,0,0,0
+101810,22,110.19,1,17.7,Month-to-month,UPI,Fiber,0,0,0
+101811,72,90.21,1,2.4,Month-to-month,Credit card,Fiber,0,0,0
+101812,37,95.86,3,23.6,Month-to-month,UPI,DSL,1,1,1
+101813,21,58.52,2,16.0,Month-to-month,UPI,Fiber,0,1,0
+101814,63,89.71,2,10.6,One year,Electronic check,Fiber,0,1,0
+101815,16,83.15,2,25.7,Month-to-month,Electronic check,DSL,0,1,0
+101816,16,92.11,1,30.6,One year,Credit card,5G,0,1,0
+101817,28,107.95,3,8.2,One year,Credit card,Fiber,0,1,0
+101818,38,71.85,6,23.4,Two year,Electronic check,5G,0,1,0
+101819,11,57.86,0,13.6,One year,Credit card,DSL,0,1,0
+101820,26,71.4,0,9.8,Month-to-month,Credit card,DSL,0,0,0
+101821,18,78.36,2,15.7,Month-to-month,Bank transfer,DSL,0,1,0
+101822,35,63.99,1,13.7,Month-to-month,Electronic check,5G,0,1,0
+101823,59,82.35,4,31.4,One year,UPI,DSL,0,0,0
+101824,31,82.54,1,26.4,Two year,UPI,Fiber,0,1,0
+101825,46,,3,7.7,Month-to-month,Bank transfer,Fiber,0,0,0
+101826,10,103.14,3,22.7,Month-to-month,Electronic check,Fiber,0,0,0
+101827,7,52.28,2,25.2,One year,UPI,5G,0,0,0
+101828,15,,2,3.7,Month-to-month,UPI,5G,0,1,0
+101829,70,81.08,2,11.8,One year,Electronic check,5G,0,1,0
+101830,18,64.25,3,36.3,Two year,Electronic check,DSL,0,1,0
+101831,21,84.53,4,10.7,Month-to-month,Electronic check,DSL,1,1,0
+101832,36,25.0,2,9.1,One year,UPI,DSL,0,1,0
+101833,41,80.47,2,13.2,Month-to-month,UPI,Fiber,0,1,0
+101834,16,83.47,2,23.3,Month-to-month,Credit card,DSL,0,1,0
+101835,32,70.43,2,27.0,One year,Electronic check,DSL,0,0,0
+101836,13,71.63,1,9.9,Month-to-month,UPI,Fiber,0,1,0
+101837,9,51.06,0,26.8,Month-to-month,UPI,Fiber,0,0,0
+101838,20,44.96,0,10.8,One year,UPI,Fiber,0,1,0
+101839,38,46.1,2,21.5,Month-to-month,Credit card,5G,0,1,0
+101840,33,66.48,0,27.0,Month-to-month,UPI,Fiber,0,1,0
+101841,29,34.59,3,10.1,Month-to-month,UPI,DSL,0,0,0
+101842,5,54.85,2,2.0,One year,Bank transfer,DSL,0,0,0
+101843,26,92.01,2,9.0,Two year,Bank transfer,Fiber,0,1,0
+101844,33,63.16,2,24.6,Month-to-month,Electronic check,DSL,0,1,0
+101845,26,41.92,4,12.9,One year,UPI,Fiber,0,0,0
+101846,32,100.16,1,34.3,One year,Electronic check,DSL,0,0,0
+101847,39,57.16,2,27.3,Month-to-month,Credit card,5G,0,1,0
+101848,48,49.28,1,34.8,Two year,Electronic check,5G,0,0,0
+101849,29,50.04,2,32.0,Month-to-month,Bank transfer,5G,0,0,0
+101850,27,95.44,2,14.8,Month-to-month,Electronic check,Fiber,0,1,0
+101851,69,72.14,2,24.8,Month-to-month,Bank transfer,Fiber,0,1,0
+101852,30,69.47,2,17.1,One year,Credit card,DSL,0,1,0
+101853,13,84.75,0,30.3,Month-to-month,Credit card,Fiber,0,0,0
+101854,19,69.9,0,24.8,Two year,Credit card,5G,0,1,0
+101855,27,76.13,0,13.2,One year,Bank transfer,5G,0,1,0
+101856,48,52.4,2,19.8,Month-to-month,Bank transfer,DSL,0,0,0
+101857,22,79.52,1,31.0,Month-to-month,UPI,DSL,0,1,0
+101858,48,49.51,1,2.0,Month-to-month,Bank transfer,Fiber,1,0,0
+101859,21,73.48,2,28.7,One year,Credit card,Fiber,1,1,0
+101860,20,34.8,2,32.1,One year,Electronic check,DSL,0,0,0
+101861,46,76.54,3,19.9,Month-to-month,Bank transfer,Fiber,0,1,0
+101862,12,96.37,5,37.6,Two year,Credit card,5G,0,1,0
+101863,58,81.02,1,23.5,Two year,Bank transfer,5G,0,1,0
+101864,23,,4,16.3,Month-to-month,Electronic check,DSL,0,1,0
+101865,72,70.74,1,37.1,Two year,Credit card,Fiber,0,0,0
+101866,17,65.62,4,36.4,One year,Credit card,Fiber,0,0,0
+101867,19,25.0,0,26.9,One year,Credit card,Fiber,0,1,0
+101868,18,91.91,2,27.5,Month-to-month,Credit card,Fiber,0,1,0
+101869,15,82.78,1,16.4,Month-to-month,Bank transfer,5G,0,1,0
+101870,11,50.69,2,15.8,Month-to-month,Electronic check,Fiber,0,1,1
+101871,23,70.09,3,12.6,Month-to-month,UPI,5G,0,1,0
+101872,71,98.15,1,35.2,Two year,Credit card,DSL,0,1,0
+101873,25,44.5,1,17.8,One year,Electronic check,Fiber,0,1,0
+101874,12,72.09,2,33.4,Month-to-month,Bank transfer,Fiber,0,1,0
+101875,15,84.94,1,24.5,One year,UPI,Fiber,0,0,0
+101876,12,55.13,3,38.5,Month-to-month,Electronic check,Fiber,0,1,0
+101877,30,84.16,4,36.5,Month-to-month,Electronic check,5G,0,0,0
+101878,35,51.99,2,19.3,One year,Bank transfer,Fiber,0,1,0
+101879,25,97.47,0,12.4,Month-to-month,Bank transfer,5G,0,1,0
+101880,24,63.12,1,21.4,One year,Credit card,Fiber,0,1,0
+101881,60,53.03,1,23.8,Month-to-month,Credit card,DSL,1,0,0
+101882,26,78.52,3,16.9,One year,Bank transfer,Fiber,0,1,0
+101883,15,32.36,1,31.4,One year,Electronic check,5G,0,1,0
+101884,22,67.64,1,23.0,One year,Electronic check,Fiber,0,1,0
+101885,35,67.69,1,13.3,One year,Credit card,DSL,0,1,0
+101886,14,,2,19.2,One year,Credit card,5G,0,0,0
+101887,48,85.12,2,5.9,One year,Electronic check,Fiber,0,1,0
+101888,19,96.41,2,26.4,Month-to-month,UPI,Fiber,0,1,0
+101889,35,55.12,2,2.0,Month-to-month,Credit card,5G,0,0,0
+101890,21,46.72,2,26.9,Month-to-month,UPI,DSL,1,0,0
+101891,16,38.43,3,24.1,Month-to-month,Bank transfer,DSL,0,1,0
+101892,25,86.9,0,20.1,One year,Bank transfer,Fiber,0,0,0
+101893,30,50.32,0,10.7,One year,Bank transfer,5G,0,0,0
+101894,11,42.92,1,8.5,Month-to-month,Electronic check,DSL,0,1,0
+101895,24,94.82,1,42.5,Month-to-month,Electronic check,Fiber,0,0,0
+101896,8,92.76,2,7.4,One year,Electronic check,DSL,0,1,1
+101897,18,61.97,3,13.0,One year,UPI,DSL,1,1,0
+101898,31,63.62,1,22.8,Two year,Credit card,DSL,0,1,0
+101899,9,68.25,1,26.5,One year,Bank transfer,Fiber,0,0,0
+101900,32,53.93,5,30.5,One year,Credit card,5G,0,0,0
+101901,4,50.75,2,31.7,Two year,UPI,DSL,0,1,0
+101902,30,75.28,1,27.2,One year,Credit card,Fiber,0,0,0
+101903,4,71.56,5,30.3,Month-to-month,Electronic check,DSL,0,0,0
+101904,51,52.29,1,16.4,Month-to-month,Electronic check,Fiber,0,1,0
+101905,27,92.89,1,38.8,Month-to-month,Electronic check,5G,0,1,0
+101906,17,116.68,1,28.5,One year,Bank transfer,Fiber,1,1,0
+101907,43,50.62,0,25.7,One year,Bank transfer,DSL,0,0,0
+101908,37,65.58,3,21.5,Month-to-month,Bank transfer,Fiber,0,0,0
+101909,32,25.0,3,18.3,Month-to-month,Electronic check,Fiber,1,1,0
+101910,43,94.44,0,19.5,One year,Bank transfer,Fiber,0,1,0
+101911,8,40.73,5,24.6,Month-to-month,UPI,Fiber,0,1,0
+101912,42,71.12,0,26.9,Month-to-month,Electronic check,DSL,0,1,0
+101913,50,84.4,2,41.1,Month-to-month,UPI,5G,0,1,0
+101914,28,88.81,2,21.0,One year,UPI,Fiber,0,1,0
+101915,49,44.9,3,26.0,Month-to-month,Credit card,DSL,0,1,0
+101916,72,54.25,2,22.1,Month-to-month,Bank transfer,DSL,0,0,0
+101917,28,64.97,5,34.5,Month-to-month,UPI,5G,0,1,0
+101918,10,35.08,0,30.3,Month-to-month,UPI,Fiber,0,0,0
+101919,40,55.8,4,17.0,Month-to-month,Credit card,DSL,0,1,0
+101920,17,83.48,1,10.7,Month-to-month,Credit card,DSL,0,1,0
+101921,10,92.96,3,25.6,Month-to-month,Bank transfer,Fiber,0,1,0
+101922,51,42.53,3,24.2,One year,Bank transfer,DSL,0,1,0
+101923,15,50.62,0,21.9,One year,Bank transfer,Fiber,0,0,0
+101924,10,54.02,3,12.1,Month-to-month,Credit card,5G,0,0,0
+101925,7,99.18,0,31.8,One year,Bank transfer,Fiber,0,1,0
+101926,40,,6,27.5,Month-to-month,UPI,5G,1,1,0
+101927,30,73.21,3,18.5,One year,Electronic check,Fiber,0,0,1
+101928,63,95.52,1,9.7,One year,Electronic check,DSL,0,0,0
+101929,26,85.72,3,42.0,Month-to-month,Credit card,DSL,0,1,0
+101930,31,86.31,3,31.6,Month-to-month,Bank transfer,DSL,0,0,0
+101931,52,97.75,2,28.8,One year,Credit card,Fiber,0,1,0
+101932,31,32.83,1,20.1,Two year,Electronic check,DSL,0,1,0
+101933,52,78.28,1,16.2,Month-to-month,Electronic check,Fiber,0,0,0
+101934,27,75.38,1,16.9,Month-to-month,Credit card,DSL,0,0,0
+101935,72,56.84,2,39.2,Month-to-month,Bank transfer,DSL,0,0,0
+101936,10,93.45,0,11.7,Month-to-month,Electronic check,Fiber,0,0,0
+101937,4,98.1,0,12.0,Month-to-month,Electronic check,Fiber,0,1,0
+101938,16,58.09,5,21.1,One year,Credit card,5G,0,0,0
+101939,5,38.14,4,38.8,Month-to-month,Electronic check,5G,0,1,0
+101940,8,25.0,1,5.8,Month-to-month,Credit card,DSL,0,1,0
+101941,34,115.54,0,29.1,One year,UPI,5G,0,0,0
+101942,47,58.51,1,8.9,One year,Electronic check,Fiber,0,1,0
+101943,3,77.67,3,23.1,Month-to-month,UPI,Fiber,0,1,0
+101944,12,72.14,1,25.9,One year,Credit card,Fiber,0,0,0
+101945,8,105.21,3,22.9,Month-to-month,Electronic check,Fiber,0,1,0
+101946,8,39.66,2,17.1,Month-to-month,Credit card,DSL,0,0,0
+101947,56,66.07,2,13.1,Month-to-month,Credit card,Fiber,0,1,0
+101948,27,52.92,4,9.4,Month-to-month,Bank transfer,5G,0,1,0
+101949,72,60.7,4,24.8,Two year,Credit card,DSL,0,1,0
+101950,10,46.81,1,27.2,Month-to-month,Credit card,DSL,0,0,0
+101951,31,47.85,1,10.9,One year,Bank transfer,5G,0,0,0
+101952,39,75.79,3,30.7,One year,Bank transfer,5G,0,0,0
+101953,72,74.45,0,32.3,Month-to-month,UPI,DSL,0,1,0
+101954,6,44.59,0,16.6,Month-to-month,Credit card,5G,0,1,0
+101955,41,67.24,0,24.2,Month-to-month,UPI,5G,0,0,0
+101956,65,47.78,0,27.6,Month-to-month,Credit card,DSL,0,1,0
+101957,6,87.13,1,17.4,Month-to-month,Credit card,DSL,0,0,0
+101958,18,88.84,0,37.0,Month-to-month,Electronic check,Fiber,0,1,0
+101959,44,96.34,3,8.8,Two year,Credit card,Fiber,0,1,0
+101960,8,65.3,2,3.4,One year,Electronic check,5G,0,0,0
+101961,40,58.26,2,36.1,Month-to-month,Credit card,5G,0,1,0
+101962,14,71.24,1,16.2,Month-to-month,UPI,Fiber,0,0,0
+101963,39,60.07,2,29.2,One year,Credit card,Fiber,0,1,0
+101964,39,71.64,1,13.3,Month-to-month,Credit card,Fiber,0,1,0
+101965,31,60.09,2,20.0,Month-to-month,Bank transfer,Fiber,1,0,0
+101966,31,45.42,0,23.8,Month-to-month,Electronic check,Fiber,0,0,0
+101967,14,77.31,1,23.7,Two year,Electronic check,Fiber,0,1,0
+101968,62,90.18,2,44.5,One year,Electronic check,Fiber,0,1,0
+101969,15,86.32,2,15.5,Month-to-month,Electronic check,Fiber,0,1,0
+101970,27,45.44,4,12.1,Month-to-month,Electronic check,Fiber,1,0,0
+101971,48,100.93,2,26.4,Two year,Bank transfer,DSL,1,1,0
+101972,17,,0,25.3,One year,UPI,DSL,0,1,0
+101973,13,56.92,6,21.3,One year,Credit card,Fiber,0,0,0
+101974,16,74.15,4,22.2,Month-to-month,UPI,Fiber,0,1,0
+101975,47,72.83,0,36.1,Month-to-month,Electronic check,DSL,0,0,0
+101976,53,65.25,3,42.9,Month-to-month,Electronic check,DSL,0,0,0
+101977,5,61.03,0,23.9,Month-to-month,Credit card,Fiber,1,0,0
+101978,27,63.2,1,22.1,Month-to-month,Electronic check,Fiber,0,1,0
+101979,6,94.32,1,32.2,One year,Credit card,Fiber,0,1,0
+101980,15,95.73,1,29.6,Month-to-month,Electronic check,Fiber,0,1,0
+101981,21,74.36,3,18.1,Month-to-month,Bank transfer,DSL,0,1,1
+101982,38,49.54,2,30.9,One year,Electronic check,DSL,0,1,0
+101983,17,85.76,2,29.1,Two year,Electronic check,DSL,0,1,0
+101984,35,103.56,1,41.5,Month-to-month,Electronic check,Fiber,0,1,0
+101985,12,87.85,1,19.7,Two year,Bank transfer,Fiber,0,0,0
+101986,11,57.39,1,12.8,One year,Credit card,Fiber,1,1,0
+101987,6,63.71,1,9.1,Month-to-month,Bank transfer,Fiber,0,0,1
+101988,25,102.05,1,12.1,Month-to-month,UPI,Fiber,0,0,0
+101989,31,78.69,1,25.2,Month-to-month,Bank transfer,DSL,0,1,0
+101990,2,,1,13.1,Two year,Credit card,5G,0,1,0
+101991,49,99.98,0,30.7,One year,Credit card,DSL,0,0,0
+101992,36,60.85,2,31.3,Month-to-month,UPI,DSL,1,1,0
+101993,17,109.84,3,23.1,Month-to-month,Bank transfer,Fiber,0,1,0
+101994,20,126.21,3,14.1,Month-to-month,UPI,Fiber,0,1,0
+101995,35,107.05,6,27.9,Month-to-month,Electronic check,DSL,0,1,0
+101996,46,90.29,2,28.1,Month-to-month,UPI,Fiber,0,1,0
+101997,41,74.11,4,2.8,Two year,UPI,Fiber,0,0,0
+101998,9,42.11,1,35.4,One year,Bank transfer,Fiber,0,0,0
+101999,30,57.63,4,10.4,Month-to-month,Electronic check,5G,0,0,0
+102000,19,48.14,0,28.0,Month-to-month,Bank transfer,Fiber,1,0,0
+102001,53,60.66,1,14.7,Two year,Credit card,DSL,1,0,0
+102002,29,80.18,1,17.0,Two year,Credit card,Fiber,0,1,0
+102003,35,61.29,3,14.3,Two year,Bank transfer,DSL,1,0,0
+102004,12,91.92,0,12.7,Month-to-month,Electronic check,Fiber,0,1,0
+102005,72,55.16,2,15.2,One year,Credit card,5G,0,0,0
+102006,48,83.29,0,22.1,Month-to-month,UPI,5G,0,0,0
+102007,71,98.15,0,30.8,Month-to-month,Bank transfer,DSL,1,1,0
+102008,23,56.92,1,25.0,One year,Electronic check,DSL,1,0,0
+102009,69,69.27,5,27.2,Month-to-month,Bank transfer,Fiber,0,0,0
+102010,10,50.62,1,10.7,Month-to-month,Electronic check,Fiber,0,0,0
+102011,21,56.08,1,12.9,Month-to-month,Electronic check,DSL,0,0,0
+102012,20,76.83,2,16.6,Month-to-month,Electronic check,5G,0,1,0
+102013,17,76.69,1,32.0,Month-to-month,Credit card,Fiber,0,0,0
+102014,10,90.37,0,24.6,Month-to-month,Electronic check,Fiber,0,0,0
+102015,4,55.68,0,20.5,Two year,Bank transfer,Fiber,1,0,0
+102016,30,76.56,1,14.0,Two year,UPI,DSL,0,0,0
+102017,41,86.81,1,28.8,Month-to-month,Bank transfer,DSL,0,0,0
+102018,65,69.47,1,2.0,Month-to-month,Credit card,Fiber,0,0,0
+102019,37,77.79,0,14.4,One year,UPI,DSL,0,0,0
+102020,51,38.78,2,22.2,Two year,Electronic check,5G,0,0,0
+102021,20,51.04,4,30.4,One year,Bank transfer,Fiber,1,1,0
+102022,12,97.42,0,20.1,Two year,Bank transfer,Fiber,0,0,0
+102023,6,33.33,2,14.2,Month-to-month,UPI,Fiber,0,1,0
+102024,24,30.92,1,2.8,Two year,Bank transfer,5G,0,1,0
+102025,18,74.5,2,19.5,Month-to-month,Credit card,DSL,1,0,1
+102026,24,37.74,0,18.1,Month-to-month,Electronic check,DSL,0,1,0
+102027,12,104.97,0,34.5,Month-to-month,Bank transfer,Fiber,0,1,0
+102028,21,99.69,1,17.0,Month-to-month,Credit card,5G,0,1,0
+102029,19,55.64,2,19.3,One year,Bank transfer,DSL,0,0,0
+102030,21,74.29,0,25.1,One year,Credit card,DSL,0,1,0
+102031,40,51.09,0,18.7,One year,Credit card,Fiber,0,1,1
+102032,25,27.64,2,34.0,One year,UPI,DSL,0,0,0
+102033,23,77.54,1,22.7,Two year,Credit card,Fiber,0,1,0
+102034,16,37.94,1,20.9,Month-to-month,Electronic check,5G,0,1,0
+102035,67,85.09,0,4.7,Month-to-month,Credit card,Fiber,0,1,0
+102036,12,104.26,1,6.9,Month-to-month,Bank transfer,DSL,1,1,0
+102037,70,79.02,2,25.1,One year,Electronic check,5G,1,1,0
+102038,61,103.99,2,22.7,One year,Credit card,Fiber,0,1,0
+102039,23,69.54,3,13.1,Two year,Credit card,DSL,0,1,0
+102040,31,89.76,1,11.6,Month-to-month,Electronic check,DSL,0,1,0
+102041,70,92.17,1,18.2,Month-to-month,Bank transfer,5G,0,0,0
+102042,28,62.74,1,31.3,Month-to-month,Electronic check,5G,1,1,0
+102043,13,84.42,2,11.8,Two year,Credit card,Fiber,0,1,0
+102044,55,74.96,2,17.2,Month-to-month,UPI,Fiber,0,0,0
+102045,54,37.59,2,3.6,Month-to-month,Electronic check,DSL,0,1,0
+102046,29,54.52,1,27.4,Month-to-month,Credit card,Fiber,0,0,0
+102047,36,56.11,2,6.6,One year,Electronic check,DSL,0,0,0
+102048,4,50.44,1,21.6,Month-to-month,UPI,Fiber,0,0,0
+102049,45,54.69,2,17.2,Month-to-month,UPI,Fiber,0,1,0
+102050,24,98.45,0,37.8,Month-to-month,Bank transfer,Fiber,0,0,0
+102051,11,57.03,3,10.4,Month-to-month,Electronic check,DSL,0,1,0
+102052,19,82.7,1,14.1,One year,Bank transfer,5G,0,0,0
+102053,43,109.41,3,25.4,Two year,Electronic check,5G,0,1,0
+102054,31,69.72,0,29.8,One year,UPI,5G,0,1,0
+102055,24,61.03,0,19.2,Two year,Credit card,DSL,0,1,0
+102056,38,79.23,2,28.6,Month-to-month,Credit card,5G,0,0,0
+102057,33,32.48,1,25.0,Month-to-month,UPI,5G,0,0,0
+102058,14,53.97,4,22.4,One year,Bank transfer,DSL,0,0,0
+102059,31,74.91,2,14.9,One year,Electronic check,Fiber,0,0,0
+102060,29,25.0,2,33.1,One year,Electronic check,Fiber,0,0,0
+102061,71,99.51,0,15.3,One year,Credit card,Fiber,0,0,0
+102062,7,84.18,5,24.4,Month-to-month,Credit card,DSL,0,1,0
+102063,8,99.97,4,11.8,One year,Electronic check,Fiber,1,0,0
+102064,67,61.82,4,37.0,Month-to-month,Electronic check,Fiber,0,1,0
+102065,9,70.45,1,35.1,One year,Electronic check,5G,0,1,0
+102066,9,92.58,4,24.9,Month-to-month,Bank transfer,5G,0,1,0
+102067,72,112.74,1,15.0,Month-to-month,Credit card,DSL,0,0,0
+102068,21,92.02,1,35.5,One year,Electronic check,DSL,0,1,0
+102069,13,83.41,3,12.5,Month-to-month,Credit card,DSL,1,1,0
+102070,35,110.0,1,27.7,One year,Bank transfer,Fiber,0,0,0
+102071,19,91.76,3,26.3,Two year,Bank transfer,5G,1,1,0
+102072,27,26.6,2,24.3,One year,Electronic check,5G,0,1,0
+102073,17,79.28,3,25.6,Month-to-month,Electronic check,Fiber,0,0,0
+102074,34,75.35,3,33.8,Month-to-month,Credit card,Fiber,0,0,0
+102075,21,86.55,4,2.0,One year,Credit card,5G,0,1,0
+102076,23,86.16,4,5.1,Month-to-month,Bank transfer,5G,0,1,0
+102077,5,66.44,1,18.4,One year,UPI,Fiber,0,1,0
+102078,38,75.54,1,12.2,Month-to-month,Electronic check,Fiber,0,1,0
+102079,16,,1,21.5,Month-to-month,Bank transfer,Fiber,0,1,0
+102080,46,87.99,3,14.6,One year,Electronic check,Fiber,0,0,0
+102081,34,72.66,1,14.3,Month-to-month,UPI,DSL,0,1,0
+102082,4,70.09,1,33.1,Month-to-month,Bank transfer,DSL,0,0,0
+102083,8,101.71,2,17.3,One year,Electronic check,Fiber,1,1,0
+102084,7,84.59,0,15.0,Month-to-month,Credit card,DSL,0,1,0
+102085,72,89.36,3,31.9,Month-to-month,Bank transfer,5G,1,1,0
+102086,12,69.98,0,14.0,Month-to-month,Credit card,DSL,0,0,0
+102087,11,,1,18.7,One year,UPI,5G,0,0,0
+102088,26,75.15,3,29.7,Month-to-month,Credit card,DSL,0,0,0
+102089,21,78.63,2,36.1,Month-to-month,Electronic check,DSL,0,1,0
+102090,37,74.47,3,24.8,Two year,Bank transfer,Fiber,0,0,0
+102091,32,77.03,1,17.5,Month-to-month,Bank transfer,Fiber,0,1,1
+102092,5,83.64,2,26.7,Month-to-month,Bank transfer,Fiber,0,1,0
+102093,55,96.83,3,16.9,Month-to-month,Bank transfer,Fiber,0,0,0
+102094,28,49.01,3,31.1,Two year,Credit card,Fiber,0,1,0
+102095,6,52.66,3,35.9,Month-to-month,Electronic check,Fiber,0,1,0
+102096,33,25.0,0,25.6,Month-to-month,Electronic check,DSL,0,0,0
+102097,48,74.65,0,29.1,Month-to-month,Electronic check,Fiber,0,1,0
+102098,37,45.27,0,24.7,Two year,Bank transfer,DSL,0,1,0
+102099,59,29.83,2,15.0,One year,Electronic check,Fiber,0,0,0
+102100,31,68.48,3,16.9,Two year,Bank transfer,Fiber,0,0,0
+102101,54,50.82,2,17.3,One year,Electronic check,5G,0,1,0
+102102,41,93.85,4,22.2,One year,Credit card,5G,0,0,0
+102103,53,99.82,2,11.5,Month-to-month,Bank transfer,DSL,0,1,0
+102104,64,86.15,2,7.5,Month-to-month,UPI,Fiber,0,1,0
+102105,45,62.79,3,38.7,Month-to-month,Bank transfer,DSL,0,0,0
+102106,52,41.25,4,20.3,One year,Credit card,Fiber,0,0,0
+102107,29,52.1,3,37.3,Month-to-month,Electronic check,DSL,0,1,0
+102108,1,50.56,3,34.2,One year,Credit card,Fiber,0,1,0
+102109,14,63.09,2,14.6,Month-to-month,Credit card,Fiber,0,1,0
+102110,23,64.78,2,37.9,One year,Bank transfer,DSL,0,1,0
+102111,29,110.4,2,9.1,One year,Credit card,Fiber,0,1,0
+102112,44,90.24,1,18.9,One year,Credit card,5G,0,1,0
+102113,36,113.4,1,25.7,Month-to-month,Electronic check,Fiber,0,0,0
+102114,19,77.11,3,14.5,Month-to-month,UPI,5G,0,0,0
+102115,65,52.67,1,8.6,Month-to-month,UPI,Fiber,0,1,0
+102116,15,57.91,2,19.2,Two year,Electronic check,DSL,0,0,0
+102117,14,71.24,3,18.4,Month-to-month,Credit card,DSL,0,1,0
+102118,12,80.51,0,31.9,One year,Bank transfer,Fiber,0,1,0
+102119,8,97.28,1,14.5,Month-to-month,Bank transfer,Fiber,0,1,0
+102120,53,59.18,0,41.3,Month-to-month,Bank transfer,Fiber,0,1,0
+102121,35,63.52,0,8.3,Month-to-month,Bank transfer,Fiber,0,0,0
+102122,3,76.06,2,27.4,Two year,Bank transfer,DSL,1,1,0
+102123,15,101.19,0,28.8,Month-to-month,Credit card,Fiber,0,0,0
+102124,4,62.34,1,29.9,Month-to-month,Credit card,Fiber,0,1,0
+102125,37,83.27,0,17.2,Two year,Electronic check,Fiber,0,1,0
+102126,30,47.8,0,17.8,Month-to-month,Bank transfer,5G,0,1,0
+102127,26,,1,20.6,Month-to-month,Credit card,Fiber,0,0,0
+102128,5,82.69,2,32.5,One year,Electronic check,DSL,0,0,0
+102129,37,84.68,3,10.3,Month-to-month,Electronic check,Fiber,1,0,0
+102130,54,101.04,3,20.2,One year,Credit card,Fiber,0,0,1
+102131,38,70.74,2,35.9,Month-to-month,Electronic check,5G,0,1,0
+102132,15,86.55,1,20.7,Two year,Bank transfer,Fiber,0,1,0
+102133,8,52.37,3,27.0,Month-to-month,Credit card,Fiber,0,1,0
+102134,7,45.91,4,17.4,Month-to-month,Electronic check,Fiber,0,0,1
+102135,29,70.79,3,22.2,Month-to-month,Electronic check,Fiber,0,0,0
+102136,27,66.36,2,36.0,One year,Bank transfer,Fiber,0,0,0
+102137,11,109.43,1,20.2,Two year,Credit card,DSL,0,0,0
+102138,31,87.34,0,19.8,Month-to-month,Electronic check,Fiber,0,1,0
+102139,11,102.84,0,35.5,Month-to-month,Credit card,Fiber,0,1,1
+102140,31,80.6,2,13.7,One year,UPI,Fiber,0,1,1
+102141,54,90.47,1,25.1,Month-to-month,Electronic check,DSL,0,0,0
+102142,22,65.89,1,19.1,One year,Electronic check,Fiber,0,1,0
+102143,49,86.83,1,3.7,Month-to-month,Bank transfer,Fiber,0,0,0
+102144,42,60.55,0,16.6,Month-to-month,Credit card,DSL,1,1,0
+102145,37,61.09,2,15.2,Month-to-month,UPI,Fiber,0,1,0
+102146,36,25.0,1,15.9,Month-to-month,Electronic check,5G,0,1,0
+102147,32,80.42,1,4.3,One year,Bank transfer,Fiber,0,1,0
+102148,33,91.8,1,16.9,Month-to-month,Electronic check,Fiber,0,1,0
+102149,13,86.79,1,23.1,Month-to-month,Bank transfer,DSL,1,1,1
+102150,13,77.83,2,27.4,Month-to-month,Bank transfer,Fiber,1,1,1
+102151,31,62.32,1,22.6,Month-to-month,Bank transfer,5G,0,0,0
+102152,38,25.0,1,10.4,Two year,Credit card,5G,0,1,0
+102153,8,46.35,1,19.8,Month-to-month,Electronic check,Fiber,0,1,0
+102154,4,69.14,2,16.2,One year,Bank transfer,Fiber,0,1,1
+102155,25,87.41,1,17.2,One year,Electronic check,5G,0,0,1
+102156,24,98.64,2,26.6,Two year,Bank transfer,5G,0,1,0
+102157,4,97.04,1,25.9,Month-to-month,UPI,DSL,1,1,0
+102158,70,57.55,2,17.7,Month-to-month,Bank transfer,DSL,1,1,0
+102159,18,67.42,2,13.5,Month-to-month,Credit card,Fiber,1,1,0
+102160,31,43.79,1,4.4,One year,UPI,Fiber,0,1,0
+102161,72,31.38,1,23.4,Month-to-month,Credit card,5G,0,0,0
+102162,15,53.27,3,20.2,One year,Bank transfer,Fiber,0,1,0
+102163,50,54.53,1,17.1,Month-to-month,Credit card,DSL,0,1,0
+102164,17,52.25,1,28.0,One year,Bank transfer,DSL,0,1,0
+102165,47,89.51,1,28.6,Month-to-month,UPI,DSL,0,0,0
+102166,28,104.67,0,28.8,Month-to-month,Bank transfer,Fiber,1,0,0
+102167,17,54.27,2,25.5,Month-to-month,Bank transfer,Fiber,0,0,0
+102168,24,109.2,0,7.9,One year,Credit card,Fiber,0,0,0
+102169,37,34.58,1,21.2,One year,Electronic check,5G,1,0,0
+102170,56,81.36,1,39.1,One year,UPI,DSL,0,0,0
+102171,23,84.87,2,26.1,One year,Electronic check,Fiber,1,1,0
+102172,63,41.28,1,23.4,Month-to-month,Credit card,DSL,0,0,0
+102173,8,93.81,1,11.3,Month-to-month,Electronic check,DSL,0,1,1
+102174,44,63.68,1,35.4,Month-to-month,Electronic check,DSL,0,0,0
+102175,35,77.88,2,22.4,One year,Credit card,Fiber,0,1,0
+102176,16,97.11,4,23.3,Month-to-month,Credit card,5G,0,1,0
+102177,21,86.88,1,14.1,Month-to-month,Credit card,DSL,0,0,1
+102178,6,62.1,2,20.7,Month-to-month,Bank transfer,Fiber,0,0,0
+102179,17,70.81,2,16.8,Month-to-month,Electronic check,Fiber,0,1,0
+102180,67,110.34,2,15.0,Two year,UPI,Fiber,0,1,0
+102181,13,33.97,0,14.8,Month-to-month,Bank transfer,Fiber,0,1,0
+102182,17,92.89,0,16.6,Month-to-month,Electronic check,DSL,0,0,0
+102183,36,93.17,0,31.3,One year,Credit card,DSL,0,0,0
+102184,45,113.59,1,16.3,Month-to-month,Credit card,Fiber,0,0,0
+102185,25,101.56,1,37.6,Month-to-month,Bank transfer,Fiber,0,1,0
+102186,42,38.36,1,20.6,Month-to-month,Credit card,Fiber,0,1,0
+102187,22,85.29,0,25.6,One year,UPI,5G,1,0,0
+102188,14,80.17,1,32.8,Month-to-month,Electronic check,Fiber,0,0,1
+102189,42,90.83,0,25.3,Two year,Credit card,Fiber,0,0,0
+102190,14,112.41,2,31.5,Month-to-month,Credit card,Fiber,0,0,0
+102191,19,,0,15.2,Two year,Credit card,DSL,0,0,0
+102192,34,67.87,6,28.1,Month-to-month,Electronic check,DSL,0,1,0
+102193,23,67.54,2,26.1,Month-to-month,Bank transfer,Fiber,0,1,0
+102194,47,96.13,0,16.7,Month-to-month,Electronic check,DSL,0,1,0
+102195,46,49.05,1,47.7,Month-to-month,UPI,DSL,1,1,0
+102196,22,86.82,3,18.7,Month-to-month,UPI,DSL,1,1,0
+102197,14,80.22,0,31.9,Month-to-month,Bank transfer,DSL,1,1,0
+102198,36,32.45,2,29.3,Two year,Electronic check,Fiber,0,1,0
+102199,49,83.06,0,25.6,One year,Bank transfer,Fiber,0,0,0
+102200,29,47.73,1,14.8,One year,Bank transfer,DSL,1,1,0
